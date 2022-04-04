@@ -26,7 +26,7 @@
 
 [My certifications](https://www.credly.com/users/thomas-jakel)
 
-[Email](mailto:thomas.jaekel@brainymotion.de?subject=AZ-104)
+[Email](mailto:thomas.jaekel@brainymotion.de?subject=AZ-305)
 
 [GitHub](https://github.com/www42)
 
