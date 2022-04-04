@@ -19,43 +19,19 @@
 [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
 
 
-## Module 01: Design a governance solution
-###           Case study – Cost and accounting
-###           Case study – New development project
+##  Your Trainer
+#### Thomas Jäkel
 
+<img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="200"/>
 
-## Module 02: Design a compute solution
-###           Case study – Compute solutions
+[My certifications](https://www.credly.com/users/thomas-jakel)
 
+[Email](mailto:thomas.jaekel@brainymotion.de?subject=AZ-104)
 
-## Module 03: Design a non-relational data storage solution
-###           Case study – Non-relational data
+[GitHub](https://github.com/www42)
 
+[linkedIn](https://linkedin.com/in/tjkkll)
 
-## Module 04: Design a data storage solution for relational data
-###           Case Study – Relational data
+[Twitter](https://twitter.com/tjkkll)
 
-
-## Module 05: Design a data integration solution
-
-
-## Module 06: Design an application architecture solution
-###           Case Study – Application architecture
-
-
-## Module 07: Design Authentication and Authorization Solutions
-###           Case Study – Authentication and authorization
-
-
-## Module 08: Design a solution to log and monitor Azure resources
-###           Fabrikam Residences case study – PM software
-
-
-## Module 09: Design a network infrastructure  solution
-###           Case Study – BI enterprise application 
-
-
-## Module 10: Design a business continuity solution
-
-
-## Module 11: Design a migration solution
+[Blog](https://blog.az.training)
