@@ -15,13 +15,13 @@
 | ----------|-------|--------------|------------|---------------------|
 | Module 01 | Governance solutions                       | [Presentation](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-Powerpoint_01.pdf) | [Case study](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/01-Governance.html) | Stay tuned! |
 | Module 02 | Compute solutions                          | [Presentation](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-PowerPoint_02.pdf) | [Case study](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/02-Compute.html) | Stay tuned! |
-| Module 03 | Non-relational storage solution            | [Presentation](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-PowerPoint_03.pdf) | [Case study]() | Stay tuned!  |
-| Module 04 | Relational storage solution                | [Presentation](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-Powerpoint_04.pdf) | [Case study]() | Stay tuned! |
+| Module 03 | Non-relational storage solution            | [Presentation](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-PowerPoint_03.pdf) | [Case study](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/03-Nonrelationalstorage.html) | Stay tuned!  |
+| Module 04 | Relational storage solution                | [Presentation](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-Powerpoint_04.pdf) | [Case study](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/04-Relationalstorage.html) | Stay tuned! |
 | Module 05 | Data integration solutions                 | [Presentation](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-Powerpoint_05.pdf) | No case study  | Stay tuned! |
-| Module 06 | App architecture solutions                 | [Presentation](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-PowerPoint_06.pdf) | [Case study]() | Stay tuned! |
-| Module 07 | Authentication and authorization solutions | Not yet | [Case study]() | Stay tuned! |
-| Module 08 | Logging and monitoring solutions           | Not yet | [Case study]() | Stay tuned! |
-| Module 09 | Network infrastructure  solutions          | Not yet | [Case study]() | Stay tuned! |
+| Module 06 | App architecture solutions                 | [Presentation](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-PowerPoint_06.pdf) | [Case study](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/06-Apparchitecture.html) | Stay tuned! |
+| Module 07 | Authentication and authorization solutions | Not yet | [Case study](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/07-Access.html) | Stay tuned! |
+| Module 08 | Logging and monitoring solutions           | Not yet | [Case study](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/08-Logging.html) | Stay tuned! |
+| Module 09 | Network infrastructure  solutions          | Not yet | [Case study](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/09-Networkingoption2.html) | Stay tuned! |
 | Module 10 | Business continuity solutions              | Not yet | No case study  | Stay tuned! |
 | Module 11 | Migration solutions                        | Not yet | No case study  | Stay tuned! |
 
@@ -31,7 +31,7 @@
 
 [Azure Charts](https://https://azurecharts.com/)
 
-[Azure docs](https://https://docs.microsoft.com/en-us/azure/)
+[Azure Docs](https://https://docs.microsoft.com/en-us/azure/)
 
 [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 
