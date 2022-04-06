@@ -44,7 +44,7 @@
 
 [Azure AD Connect classroom discussion](https://github.com/www42/305/blob/8e54be2499faf853b3f54a8044318419ec240999/Solutions/AZ-305_Azure-AD-Connect_Discussion.png)
 
-[Create management group using Bicep]()
+[Create management group using Bicep](https://github.com/www42/305/tree/master/Bicep)
 
 ##  Your Trainer
 #### Thomas Jäkel
