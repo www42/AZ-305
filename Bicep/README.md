@@ -1,4 +1,4 @@
-# Create management group by using Bicep
+# Create management group using Bicep
 
 [Management group deployments with Bicep files](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-to-management-group?tabs=azure-powershell)
 
