@@ -8,21 +8,21 @@
 
 # AZ-305 Case Studies
 
-[All case studies (HTML)](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
+[All case studies](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
 
-[Official solutions to the case studies]()[]
+[Official solutions to the case studies](https://github.com/www42/305/blob/c23611065728e11a081a94e9775808f324113e9d/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout.pdf)
 
 # AZ-305 Modules
 
 | Module    | Title | Presentation | Case study classroom solution |
 | ----------|-------|--------------|-------------------------------|
-| Module 01 | Governance solutions                       | [Presentation](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-Powerpoint_01.pdf) | Stay tuned!   |
-| Module 02 | Compute solutions                          | [Presentation](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-PowerPoint_02.pdf) | Stay tuned!   |
-| Module 03 | Non-relational storage solution            | [Presentation](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-PowerPoint_03.pdf) | Stay tuned!   |
-| Module 04 | Relational storage solution                | [Presentation](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-Powerpoint_04.pdf) | Stay tuned!   |
-| Module 05 | Data integration solutions                 | [Presentation](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-Powerpoint_05.pdf) | No case study |
-| Module 06 | App architecture solutions                 | [Presentation](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-PowerPoint_06.pdf) | Stay tuned!   |
-| Module 07 | Authentication and authorization solutions | Not yet | Stay tuned!   |
+| Module 01 | Governance solutions                       | [Presentation 01](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-Powerpoint_01.pdf) | Stay tuned!   |
+| Module 02 | Compute solutions                          | [Presentation 02](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-PowerPoint_02.pdf) | Stay tuned!   |
+| Module 03 | Non-relational storage solution            | [Presentation 03](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-PowerPoint_03.pdf) | Stay tuned!   |
+| Module 04 | Relational storage solution                | [Presentation 04](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-Powerpoint_04.pdf) | Stay tuned!   |
+| Module 05 | Data integration solutions                 | [Presentation 05](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-Powerpoint_05.pdf) | No case study |
+| Module 06 | App architecture solutions                 | [Presentation 06](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-PowerPoint_06.pdf) | Stay tuned!   |
+| Module 07 | Authentication and authorization solutions | [Presentation 07](https://github.com/www42/305/blob/c23611065728e11a081a94e9775808f324113e9d/Presentation/AZ-305T00A-ENU-Powerpoint_07.pdf) | Stay tuned!   |
 | Module 08 | Logging and monitoring solutions           | Not yet | Stay tuned!   |
 | Module 09 | Network infrastructure  solutions          | Not yet | Stay tuned!   |
 | Module 10 | Business continuity solutions              | Not yet | No case study |
