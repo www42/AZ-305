@@ -1,0 +1,1 @@
+## Create management group by using Bicep
