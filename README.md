@@ -1,3 +1,7 @@
+# brainymotion Seminar 4. - 7. April
+
+[Feedback (metrics that matter)](https://www.metricsthatmatter.com/url/u.aspx?05ABC797B182127687)
+
 # AZ-305 Designing Microsoft Azure Infrastructure Solutions
 
 [GitHub Repo](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions)
