@@ -27,10 +27,10 @@
 | Module 05 | Data integration solutions                 | [Presentation 05](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-Powerpoint_05.pdf) | No case study     |
 | Module 06 | App architecture solutions                 | [Presentation 06](https://github.com/www42/305/blob/cbe13cb091f0f3f1148b816515d4933bd11475ff/Presentation/AZ-305T00A-ENU-PowerPoint_06.pdf) | Stay tuned!       |
 | Module 07 | Authentication and authorization solutions | [Presentation 07](https://github.com/www42/305/blob/c23611065728e11a081a94e9775808f324113e9d/Presentation/AZ-305T00A-ENU-Powerpoint_07.pdf) | [Whiteboard 07](https://github.com/www42/305/blob/7ce281b349169591f26dad91b1e9ba0fb2cf7e1c/Solutions/AZ-305_Case-Study_07_Classroom-Solution.png) |
-| Module 08 | Logging and monitoring solutions           | Not yet | Stay tuned!   |
-| Module 09 | Network infrastructure  solutions          | Not yet | Stay tuned!   |
-| Module 10 | Business continuity solutions              | Not yet | No case study |
-| Module 11 | Migration solutions                        | Not yet | No case study |
+| Module 08 | Logging and monitoring solutions           | [Presentation 08](https://github.com/www42/305/blob/91e8ff2bd99c9ce02d8beb7ff886deb8e8e78448/Presentation/AZ-305T00A-ENU-Powerpoint_08.pdf) | [Whiteboard 08](https://github.com/www42/305/blob/91e8ff2bd99c9ce02d8beb7ff886deb8e8e78448/Solutions/AZ-305_Case-Study_08_Classroom-Solution.png) |
+| Module 09 | Network infrastructure  solutions          | [Presentation 09]() | [Whiteboard 09]() |
+| Module 10 | Business continuity solutions              | [Presentation 10]() | No case study |
+| Module 11 | Migration solutions                        | [Presentation 11]() | No case study |
 
 # Useful links
 
