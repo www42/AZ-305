@@ -14,7 +14,6 @@
 
 [All case studies](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
 
-[Official solutions to the case studies](https://github.com/www42/305/blob/c23611065728e11a081a94e9775808f324113e9d/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout.pdf)
 
 # AZ-305 Modules
 
