@@ -15,21 +15,20 @@
 [All case studies](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
 
 
-# AZ-305 Modules
-
-| Module    | Title | Presentation | Case study classroom solution | Official solution |
-| ----------|-------|--------------|-------------------------------|--------------------|
-| Module 01 | Governance solutions                       |  |  |  |
-| Module 02 | Compute solutions                          |  |  |  |
-| Module 03 | Non-relational storage solution            |  |  |  |
-| Module 04 | Relational storage solution                |  |  |  |
-| Module 05 | Data integration solutions                 |  | No case study  |  |
-| Module 06 | App architecture solutions                 |  |  |  |
-| Module 07 | Authentication and authorization solutions |  |  |  |
-| Module 08 | Logging and monitoring solutions           |  |  |  |
-| Module 09 | Network infrastructure  solutions          |  |  |  |
-| Module 10 | Business continuity solutions              |  | No case study |  |
-| Module 11 | Migration solutions                        |  | No case study |  |
+| Module    | Presentation | classroom whiteboard | Official solution |
+| ----------|--------------|----------------------|-------------------|
+|           | [Intro](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Presentations/AZ-305T00A-ENU-PowerPoint_00.pdf)                | No case study |  |
+| Module 01 | [Governance solutions](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Presentations/AZ-305T00A-ENU-Powerpoint_01.pdf) | [Whiteboard 01](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Whiteboards/Whiteboard-Mod01.png) | No Solution |
+| Module 02 | [Compute solutions](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Presentations/AZ-305T00A-ENU-PowerPoint_02.pdf)    | [Whiteboard 02](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Whiteboards/Whiteboard-Mod02.png) | [Solution 02 (https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module02.pdf)]  |
+| Module 03 | Non-relational storage solution            |  |  |
+| Module 04 | Relational storage solution                |  |  |
+| Module 05 | Data integration solutions                 | No case study  |  |
+| Module 06 | App architecture solutions                 |  |  |
+| Module 07 | Authentication and authorization solutions |  |  |
+| Module 08 | Logging and monitoring solutions           |  |  |
+| Module 09 | Network infrastructure  solutions          |  |  |
+| Module 10 | Business continuity solutions              | No case study |  |
+| Module 11 | Migration solutions                        | No case study |  |
 
 # Useful links
 
