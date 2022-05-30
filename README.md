@@ -15,7 +15,7 @@
 [All case studies](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
 
 
-| Module    | Presentation | classroom whiteboard | Official solution |
+| Module    | Presentation | Classroom Whiteboard | Official Solution |
 | ----------|--------------|----------------------|-------------------|
 |           | [Intro](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Presentations/AZ-305T00A-ENU-PowerPoint_00.pdf)                | No case study |  |
 | Module 01 | [Governance solutions](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Presentations/AZ-305T00A-ENU-Powerpoint_01.pdf) | [Whiteboard 01](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Whiteboards/Whiteboard-Mod01.png) | No Solution |
