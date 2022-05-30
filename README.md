@@ -1,4 +1,4 @@
-# brainymotion Seminar 4. - 7. April
+# brainymotion Seminar 30. Mai - 2. Juni 2022
 
 [Feedback (metrics that matter)](https://www.metricsthatmatter.com/url/u.aspx?05ABC797B182127687)
 
@@ -6,7 +6,7 @@
 
 [GitHub Repo](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions)
 
-[Course description](https://docs.microsoft.com/en-us/learn/certifications/courses/az-305t00)
+[Solutions Architect Certification](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
 
 [AZ-305 on Microsoft Learn](https://aka.ms/AZ-305StudentMaterials)
 
