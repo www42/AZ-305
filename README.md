@@ -53,7 +53,7 @@
 ##  Your Trainer
 #### Thomas Jäkel
 
-<img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="200"/>
+<img src="https://github.com/www42/305/blob/36482adce2952ecb70f11ed2b11ce431659a2ede/img/Profilbild.jpg" width="200"/>
 
 [My certifications](https://www.credly.com/users/thomas-jakel)
 
