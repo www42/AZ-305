@@ -18,19 +18,19 @@
 
 # AZ-305 Modules
 
-| Module    | Title | Presentation | Case study classroom solution |
-| ----------|-------|--------------|-------------------------------|
-| Module 01 | Governance solutions                       |  |  |
-| Module 02 | Compute solutions                          |  |  |
-| Module 03 | Non-relational storage solution            |  |  |
-| Module 04 | Relational storage solution                |  |  |
-| Module 05 | Data integration solutions                 |  | No case study     |
-| Module 06 | App architecture solutions                 |  |  |
-| Module 07 | Authentication and authorization solutions |  |  |
-| Module 08 | Logging and monitoring solutions           |  |  |
-| Module 09 | Network infrastructure  solutions          |  |  |
-| Module 10 | Business continuity solutions              |  | No case study |
-| Module 11 | Migration solutions                        |  | No case study |
+| Module    | Title | Presentation | Case study classroom solution | Official solution |
+| ----------|-------|--------------|-------------------------------|--------------------|
+| Module 01 | Governance solutions                       |  |  |  |
+| Module 02 | Compute solutions                          |  |  |  |
+| Module 03 | Non-relational storage solution            |  |  |  |
+| Module 04 | Relational storage solution                |  |  |  |
+| Module 05 | Data integration solutions                 |  | No case study  |  |
+| Module 06 | App architecture solutions                 |  |  |  |
+| Module 07 | Authentication and authorization solutions |  |  |  |
+| Module 08 | Logging and monitoring solutions           |  |  |  |
+| Module 09 | Network infrastructure  solutions          |  |  |  |
+| Module 10 | Business continuity solutions              |  | No case study |  |
+| Module 11 | Migration solutions                        |  | No case study |  |
 
 # Useful links
 
