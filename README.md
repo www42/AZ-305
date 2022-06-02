@@ -26,7 +26,7 @@
 | Module 06 | App architecture solutions                 | [Whiteboard 06](https://github.com/www42/305/blob/c085f5ad33fb6c3659d170d4d59abad2b7015b5c/Whiteboards/Whiteboard-Mod06.png) | [Solution 06](https://github.com/www42/305/blob/eab9403d4775680345ec2a05b5b564dfbfae63b8/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module06.pdf) |
 | Module 07 | Authentication and authorization solutions | [Whiteboard 07](https://github.com/www42/305/blob/c085f5ad33fb6c3659d170d4d59abad2b7015b5c/Whiteboards/Whiteboard-Mod07.png) | [Solution 07](https://github.com/www42/305/blob/eab9403d4775680345ec2a05b5b564dfbfae63b8/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module07.pdf) |
 | Module 08 | Logging and monitoring solutions           | [Whiteboard 08](https://github.com/www42/305/blob/c085f5ad33fb6c3659d170d4d59abad2b7015b5c/Whiteboards/Whiteboard-Mod08.png) | [Solution 08](https://github.com/www42/305/blob/eab9403d4775680345ec2a05b5b564dfbfae63b8/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module08.pdf) |
-| Module 09 | Network infrastructure  solutions          |  | [Solution 09](https://github.com/www42/305/blob/eab9403d4775680345ec2a05b5b564dfbfae63b8/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module09.pdf) |
+| Module 09 | Network infrastructure  solutions          | [Whiteboard 09](https://github.com/www42/305/blob/ed0893cc8098131a977da5460a2f95078622abc7/Whiteboards/Whiteboard-Mod09.png)  | [Solution 09](https://github.com/www42/305/blob/eab9403d4775680345ec2a05b5b564dfbfae63b8/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module09.pdf) |
 | Module 10 | Business continuity solutions              |  | No case study |
 | Module 11 | Migration solutions                        |  | No case study |
 
