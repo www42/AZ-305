@@ -28,7 +28,7 @@
 | Module 08 | [Logging and monitoring solutions](https://github.com/www42/305/blob/724e42b399c563284dc493cea8bd95992fcfe38a/Presentations/AZ-305T00A-ENU-Powerpoint_08.pdf)           | [Whiteboard 08](https://github.com/www42/305/blob/c085f5ad33fb6c3659d170d4d59abad2b7015b5c/Whiteboards/Whiteboard-Mod08.png) | [Solution 08](https://github.com/www42/305/blob/eab9403d4775680345ec2a05b5b564dfbfae63b8/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module08.pdf) |
 | Module 09 | [Network infrastructure  solutions](https://github.com/www42/305/blob/05650047200c3bbf5d6afc02cfacb40d515a4f93/Presentations/AZ-305T00A-ENU-Powerpoint_09.pdf)          | [Whiteboard 09](https://github.com/www42/305/blob/ed0893cc8098131a977da5460a2f95078622abc7/Whiteboards/Whiteboard-Mod09.png)  | [Solution 09](https://github.com/www42/305/blob/eab9403d4775680345ec2a05b5b564dfbfae63b8/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module09.pdf) |
 | Module 10 | [Business continuity solutions](https://github.com/www42/305/blob/724e42b399c563284dc493cea8bd95992fcfe38a/Presentations/AZ-305T00A-ENU-Powerpoint_10.pdf)              |  | No case study |
-| Module 11 | Migration solutions                        |  | No case study |
+| Module 11 | [Migration solutions](https://github.com/www42/305/blob/9e7d4b80a758ce390a204cf203b99c2efcab73e7/Presentations/AZ-305T00A-ENU-Powerpoint_11.pdf)                        |  | No case study |
 
 # Useful links
 
