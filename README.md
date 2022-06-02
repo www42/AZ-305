@@ -16,7 +16,7 @@
 
 
 | Module    | Presentation | Case Study | Classroom Whiteboard | Official Solution |
-| ----------|--------------|----------------------|-------------------|
+| ----------|--------------|------------| ---------------------|-------------------|
 |           | [Intro](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Presentations/AZ-305T00A-ENU-PowerPoint_00.pdf)                | | | |
 | Module 01 | [Governance solutions](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Presentations/AZ-305T00A-ENU-Powerpoint_01.pdf) | | [Whiteboard 01](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Whiteboards/Whiteboard-Mod01.png) | [Solution 01](https://github.com/www42/305/blob/e7f81ae0db440c2092bd5ca6b78b8f7681ac3a1e/Solutions/Mod01Solution.pdf) |
 | Module 02 | [Compute solutions](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Presentations/AZ-305T00A-ENU-PowerPoint_02.pdf)    | | [Whiteboard 02](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Whiteboards/Whiteboard-Mod02.png) | [Solution 02](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module02.pdf) |
