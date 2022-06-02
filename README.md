@@ -20,12 +20,12 @@
 |           | [Intro](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Presentations/AZ-305T00A-ENU-PowerPoint_00.pdf)                | | |
 | Module 01 | [Governance solutions](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Presentations/AZ-305T00A-ENU-Powerpoint_01.pdf) | [Whiteboard 01](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Whiteboards/Whiteboard-Mod01.png) | [Solution 01](https://github.com/www42/305/blob/e7f81ae0db440c2092bd5ca6b78b8f7681ac3a1e/Solutions/Mod01Solution.pdf) |
 | Module 02 | [Compute solutions](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Presentations/AZ-305T00A-ENU-PowerPoint_02.pdf)    | [Whiteboard 02](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Whiteboards/Whiteboard-Mod02.png) | [Solution 02](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module02.pdf) |
-| Module 03 | Non-relational storage solution            |  |  |
-| Module 04 | Relational storage solution                |  |  |
+| Module 03 | Non-relational storage solution            |  | [Whiteboard 03](https://github.com/www42/305/blob/c085f5ad33fb6c3659d170d4d59abad2b7015b5c/Whiteboards/Whiteboard-Mod03.png) |
+| Module 04 | Relational storage solution                | [Whiteboard04](https://github.com/www42/305/blob/c085f5ad33fb6c3659d170d4d59abad2b7015b5c/Whiteboards/Whiteboard-Mod04.png) |  |
 | Module 05 | Data integration solutions                 |  | No case study |
-| Module 06 | App architecture solutions                 |  |  |
-| Module 07 | Authentication and authorization solutions |  |  |
-| Module 08 | Logging and monitoring solutions           |  |  |
+| Module 06 | App architecture solutions                 | [Whiteboard06](https://github.com/www42/305/blob/c085f5ad33fb6c3659d170d4d59abad2b7015b5c/Whiteboards/Whiteboard-Mod06.png) |  |
+| Module 07 | Authentication and authorization solutions | [Whiteboard07](https://github.com/www42/305/blob/c085f5ad33fb6c3659d170d4d59abad2b7015b5c/Whiteboards/Whiteboard-Mod07.png) |  |
+| Module 08 | Logging and monitoring solutions           | [Whiteboard08](https://github.com/www42/305/blob/c085f5ad33fb6c3659d170d4d59abad2b7015b5c/Whiteboards/Whiteboard-Mod08.png) |  |
 | Module 09 | Network infrastructure  solutions          |  |  |
 | Module 10 | Business continuity solutions              |  | No case study |
 | Module 11 | Migration solutions                        |  | No case study |
