@@ -1,4 +1,4 @@
-# brainymotion Seminar 30. Mai - 2. Juni 2022
+# Seminar 18. - 21. Juli 2022
 
 [Feedback (metrics that matter)](https://www.metricsthatmatter.com/url/u.aspx?4D3889031184199833)
 
