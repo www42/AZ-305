@@ -1,8 +1,8 @@
 # Seminar 18. - 21. Juli 2022
 
-[Feedback (metrics that matter)](https://www.metricsthatmatter.com/url/u.aspx?4D3889031184199833)
 
-# AZ-305 Designing Microsoft Azure Infrastructure Solutions
+
+## AZ-305 Designing Microsoft Azure Infrastructure Solutions
 
 [GitHub Repo](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions)
 
@@ -17,8 +17,8 @@
 
 | Module    | Presentation | Case Study | Classroom Whiteboard | Official Solution |
 | ----------|--------------|------------| ---------------------|-------------------|
-|           | [Intro](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Presentations/AZ-305T00A-ENU-PowerPoint_00.pdf)                | | | |
-| 01 | [Governance solutions](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Presentations/AZ-305T00A-ENU-Powerpoint_01.pdf) | | [Whiteboard 01](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Whiteboards/Whiteboard-Mod01.png) | [Solution 01](https://github.com/www42/305/blob/e7f81ae0db440c2092bd5ca6b78b8f7681ac3a1e/Solutions/Mod01Solution.pdf) |
+|           | Intro                | | | |
+| 01 | Governance solutions | | Whiteboard 01 | Solution 01 |
 | 02 | [Compute solutions](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Presentations/AZ-305T00A-ENU-PowerPoint_02.pdf)    | | [Whiteboard 02](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Whiteboards/Whiteboard-Mod02.png) | [Solution 02](https://github.com/www42/305/blob/1373af78d0cabe6f167ed32fb05d5b7e77706f4c/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module02.pdf) |
 | 03 | [Non-relational storage solution](https://github.com/www42/305/blob/05650047200c3bbf5d6afc02cfacb40d515a4f93/Presentations/AZ-305T00A-ENU-PowerPoint_03.pdf)            | | [Whiteboard 03](https://github.com/www42/305/blob/c085f5ad33fb6c3659d170d4d59abad2b7015b5c/Whiteboards/Whiteboard-Mod03.png) | [Solution 03](https://github.com/www42/305/blob/eab9403d4775680345ec2a05b5b564dfbfae63b8/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module03.pdf) |
 | 04 | [Relational storage solution](https://github.com/www42/305/blob/05650047200c3bbf5d6afc02cfacb40d515a4f93/Presentations/AZ-305T00A-ENU-Powerpoint_04.pdf)                | | [Whiteboard 04](https://github.com/www42/305/blob/c085f5ad33fb6c3659d170d4d59abad2b7015b5c/Whiteboards/Whiteboard-Mod04.png) | [Solution 04](https://github.com/www42/305/blob/eab9403d4775680345ec2a05b5b564dfbfae63b8/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module04.pdf) |
