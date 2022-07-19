@@ -16,10 +16,10 @@
 | Module    | Presentation | Classroom Whiteboard | Official Solution |
 | ----------|--------------| ---------------------|-------------------|
 |    | Intro                                     |               |             |
-| 01 | Governance solutions                      | Whiteboard 01 | Solution 01 |
-| 02 | Compute solutions                         | Whiteboard 02 | Solution 02 |
-| 03 | Non-relational storage solution           | Whiteboard 03 | Solution 03 |
-| 04 | Relational storage solution               | Whiteboard 04 | Solution 04 |
+| 01 | Governance solutions                      | Whiteboard 01 | [Solution 01](https://github.com/www42/305/blob/347d8af61c5826e496934c68ae49d6d8f0f5e002/Solutions/Mod01Solution.pdf) |
+| 02 | Compute solutions                         | Whiteboard 02 | [Solution 02](https://github.com/www42/305/blob/347d8af61c5826e496934c68ae49d6d8f0f5e002/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module02.pdf) |
+| 03 | Non-relational storage solution           | Whiteboard 03 | [Solution 03](https://github.com/www42/305/blob/347d8af61c5826e496934c68ae49d6d8f0f5e002/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module03.pdf) |
+| 04 | Relational storage solution               | Whiteboard 04 | [Solution 04](https://github.com/www42/305/blob/347d8af61c5826e496934c68ae49d6d8f0f5e002/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module04.pdf) |
 | 05 | Data integration solutions                | No case study |             |
 | 06 | App architecture solutions                | Whiteboard 06 | Solution 06 |
 | 07 | Authentication and authorization solutions| Whiteboard 07 | Solution 07 |
