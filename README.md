@@ -15,23 +15,19 @@
 
 | Module    | Presentation | Classroom Whiteboard | Official Solution |
 | ----------|--------------| ---------------------|-------------------|
-|    | Intro                                     |               |             |
+|    | Intro                                     |  |  |
 | 01 | Governance solutions                      |  |  |
-| 02 | Compute solutions                         | [Whiteboard 02]() | [Solution 02]() |
-| 03 | Non-relational storage solution           | [Whiteboard 03]() | [Solution 03]() |
-| 04 | Relational storage solution               | [Whiteboard 04]() | [Solution 04]() |
-| 05 | Data integration solutions                | No case study |             |
-| 06 | App architecture solutions                | [Whiteboard 06]() | [Solution 06]() |
-| 07 | Authentication and authorization solutions| [Whiteboard 07]() | [Solution 07]() |
-| 08 | Logging and monitoring solutions          | [Whiteboard 08]() | [Solution 08]() |
-| 09 | Network infrastructure  solutions         | [Whiteboard 09]() | [Solution 09]() |
-| 10 | Business continuity solutions             | No case study |             |
-| 11 | Migration solutions                       | No case study |             |
+| 02 | Compute solutions                         |  |  |
+| 03 | Non-relational storage solution           |  |  |
+| 04 | Relational storage solution               |  |  |
+| 05 | Data integration solutions                | No case study |  |
+| 06 | App architecture solutions                |  |  |
+| 07 | Authentication and authorization solutions|  |  |
+| 08 | Logging and monitoring solutions          |  |  |
+| 09 | Network infrastructure  solutions         |  |  |
+| 10 | Business continuity solutions             | No case study |  |
+| 11 | Migration solutions                       | No case study |  |
 
-
-[comment]: # (  [Whiteboard 01]()       [Solution 01]()   )
-
-[//]: # (This may be the most platform independent comment)
 
 
 # Useful links
