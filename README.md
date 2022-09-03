@@ -1,6 +1,6 @@
 # AZ-305 Designing Microsoft Azure Infrastructure Solutions
 
-## Seminar 18. - 21. Juli 2022
+## Seminar 5. - 8. September 2022
 
 [GitHub Repo](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions)
 
@@ -16,7 +16,7 @@
 | Module    | Presentation | Classroom Whiteboard | Official Solution |
 | ----------|--------------| ---------------------|-------------------|
 |    | Intro                                     |               |             |
-| 01 | Governance solutions                      | [Whiteboard 01](https://github.com/www42/305/blob/550f5425d072598b8b352c0097088409a9759870/Whiteboards/Whiteboard01.png) | [Solution 01](https://github.com/www42/305/blob/347d8af61c5826e496934c68ae49d6d8f0f5e002/Solutions/Mod01Solution.pdf) |
+| 01 | Governance solutions                      | [Whiteboard 01]() | [Solution 01]() |
 | 02 | Compute solutions                         | [Whiteboard 02](https://github.com/www42/305/blob/550f5425d072598b8b352c0097088409a9759870/Whiteboards/Whiteboard02.png) | [Solution 02](https://github.com/www42/305/blob/347d8af61c5826e496934c68ae49d6d8f0f5e002/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module02.pdf) |
 | 03 | Non-relational storage solution           | [Whiteboard 03](https://github.com/www42/305/blob/550f5425d072598b8b352c0097088409a9759870/Whiteboards/Whiteboard03.png) | [Solution 03](https://github.com/www42/305/blob/347d8af61c5826e496934c68ae49d6d8f0f5e002/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module03.pdf) |
 | 04 | Relational storage solution               | [Whiteboard 04](https://github.com/www42/305/blob/550f5425d072598b8b352c0097088409a9759870/Whiteboards/Whiteboard04.png) | [Solution 04](https://github.com/www42/305/blob/347d8af61c5826e496934c68ae49d6d8f0f5e002/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module04.pdf) |
