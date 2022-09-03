@@ -28,9 +28,13 @@
 | 10 | Business continuity solutions             | No case study |             |
 | 11 | Migration solutions                       | No case study |             |
 
-[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (Whiteboard 01    Solution 01)
+
 [comment]: <> (  [Whiteboard 01]()       [Solution 01]()   )
 
+[//]: # (This may be the most platform independent comment)
+
+[//]: # (  [Whiteboard 01]()       [Solution 01]()  )
 
 # Useful links
 
