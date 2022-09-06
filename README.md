@@ -17,7 +17,7 @@
 | ----------|--------------| ---------------------|-------------------|
 |    | Intro                                     |  |  |
 | 01 | Governance solutions                      | [Whiteboard 01](https://github.com/www42/305/blob/05ef3b2794a61719efe4d2960ce46736335e8c0e/Whiteboards/Az-305%20Whiteboard%2001.png) | [Solution 01](https://github.com/www42/305/blob/05ef3b2794a61719efe4d2960ce46736335e8c0e/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module01.pdf) |
-| 02 | Compute solutions                         |  |  |
+| 02 | Compute solutions                         | [Whiteboard 02](https://github.com/www42/305/blob/a76f74b5dbc214febb45849260f15ad1d4639def/Whiteboards/AZ-305%20Whiteboard%2002.png) | [Solution 02](https://github.com/www42/305/blob/a76f74b5dbc214febb45849260f15ad1d4639def/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module02.pdf) |
 | 03 | Non-relational storage solution           |  |  |
 | 04 | Relational storage solution               |  |  |
 | 05 | Data integration solutions                | No case study |  |
