@@ -13,20 +13,20 @@
 [All case studies](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
 
 
-| Module    | Presentation | Classroom Whiteboard | Official Solution |
-| ----------|--------------| ---------------------|-------------------|
-|    | Intro                                     |  |  |
-| 01 | Governance solutions                      | [Whiteboard 01](https://github.com/www42/305/blob/05ef3b2794a61719efe4d2960ce46736335e8c0e/Whiteboards/Az-305%20Whiteboard%2001.png) | [Solution 01](https://github.com/www42/305/blob/05ef3b2794a61719efe4d2960ce46736335e8c0e/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module01.pdf) |
-| 02 | Compute solutions                         | [Whiteboard 02](https://github.com/www42/305/blob/a76f74b5dbc214febb45849260f15ad1d4639def/Whiteboards/AZ-305%20Whiteboard%2002.png) | [Solution 02](https://github.com/www42/305/blob/a76f74b5dbc214febb45849260f15ad1d4639def/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module02.pdf) |
-| 03 | Non-relational storage solution           | [Whiteboard 03](https://github.com/www42/305/blob/f5120bd1aeb36ac428389d1076cb6b852f40d9aa/Whiteboards/AZ-305%20Whiteboard%2003.png) |  |
-| 04 | Relational storage solution               | [Whiteboard 04](https://github.com/www42/305/blob/f5120bd1aeb36ac428389d1076cb6b852f40d9aa/Whiteboards/AZ-305%20Whiteboard%2004.png) |  |
-| 05 | Data integration solutions                | No case study |  |
-| 06 | App architecture solutions                |  |  |
-| 07 | Authentication and authorization solutions|  |  |
-| 08 | Logging and monitoring solutions          |  |  |
-| 09 | Network infrastructure  solutions         |  |  |
-| 10 | Business continuity solutions             | No case study |  |
-| 11 | Migration solutions                       | No case study |  |
+| Module    | Presentation | Classroom Whiteboard | Official Solution | Presentation |
+| ----------|--------------| ---------------------|-------------------|--------------|
+|    | Intro                                     |  |  |  |
+| 01 | Governance solutions                      | [Whiteboard 01](https://github.com/www42/305/blob/05ef3b2794a61719efe4d2960ce46736335e8c0e/Whiteboards/Az-305%20Whiteboard%2001.png) | [Solution 01](https://github.com/www42/305/blob/05ef3b2794a61719efe4d2960ce46736335e8c0e/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module01.pdf) |  |
+| 02 | Compute solutions                         | [Whiteboard 02](https://github.com/www42/305/blob/a76f74b5dbc214febb45849260f15ad1d4639def/Whiteboards/AZ-305%20Whiteboard%2002.png) | [Solution 02](https://github.com/www42/305/blob/a76f74b5dbc214febb45849260f15ad1d4639def/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module02.pdf) |  |
+| 03 | Non-relational storage solution           | [Whiteboard 03](https://github.com/www42/305/blob/f5120bd1aeb36ac428389d1076cb6b852f40d9aa/Whiteboards/AZ-305%20Whiteboard%2003.png) | [Solution 03](https://github.com/www42/305/blob/0d78e8407c8a2c72bf4e5d365869b82d0e4dd69b/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module03.pdf) |  |
+| 04 | Relational storage solution               | [Whiteboard 04](https://github.com/www42/305/blob/f5120bd1aeb36ac428389d1076cb6b852f40d9aa/Whiteboards/AZ-305%20Whiteboard%2004.png) | [Solution 04](https://github.com/www42/305/blob/0d78e8407c8a2c72bf4e5d365869b82d0e4dd69b/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module04.pdf) |  |
+| 05 | Data integration solutions                | No case study |  |  |
+| 06 | App architecture solutions                |  |  |  |
+| 07 | Authentication and authorization solutions|  |  |  |
+| 08 | Logging and monitoring solutions          |  |  |  |
+| 09 | Network infrastructure  solutions         |  |  |  |
+| 10 | Business continuity solutions             | No case study |  |  |
+| 11 | Migration solutions                       | No case study |  |  |
 
 
 
