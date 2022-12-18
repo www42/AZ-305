@@ -26,6 +26,14 @@
 | 10 | Business continuity solutions             | No case study |  |  |
 | 11 | Migration solutions                       | No case study |  |  |
 
+---
+
+[Give Feedback! (Metrics That Matter)](#az-305-designing-microsoft-azure-infrastructure-solutions)
+
+[Claim your Badge! (Microsoft Learn)](##az-305-designing-microsoft-azure-infrastructure-solutions)
+
+---
+
 
 
 # Useful links
@@ -44,16 +52,22 @@
 ##  Your Trainer
 #### Thomas Jäkel
 
-<img src="https://github.com/www42/305/blob/36482adce2952ecb70f11ed2b11ce431659a2ede/img/Profilbild.jpg" width="200"/>
+<img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="200"/>
+<a href="https://www.credly.com/badges/c1fe9e82-60d2-4268-8204-3709479a2bf9/public_url"><img src="https://download69118.blob.core.windows.net/anon/MCT-badge.png" width="130"/></a>
+<a href="https://www.credly.com/badges/fc4737d8-923a-4d37-8f1a-497c08a7c1ff/public_url"><img src="https://download69118.blob.core.windows.net/anon/AAI-badge.png" width="150"/></a>
 
 [My certifications](https://www.credly.com/users/thomas-jakel)
 
-[Email](mailto:thomas.jaekel@brainymotion.de?subject=AZ-305)
+[Email me](mailto:thomas.jaekel@brainymotion.de?subject=AZ-305)
 
-[GitHub](https://github.com/www42)
+[Check out my GitHub repos](https://github.com/www42)
 
-[linkedIn](https://linkedin.com/in/tjkkll)
+[Find me on LinkedIn](https://linkedin.com/in/tjkkll)
 
-[Twitter](https://twitter.com/tjkkll)
+[Follow me on Twitter](https://twitter.com/tjkkll)
 
-[Blog](https://blog.az.training)
+[My Blog](https://blog.az.training)
+
+---
+
+[Top](#az-305-designing-microsoft-azure-infrastructure-solutions)
