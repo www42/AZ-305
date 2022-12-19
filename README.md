@@ -11,20 +11,20 @@
 [All case studies](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
 
 
-| Module    | Presentation | Classroom Whiteboard | Official Solution | Presentation |
-| ----------|--------------| ---------------------|-------------------|--------------|
-|    | Intro                                     |  |  |  |
-| 01 | Governance solutions                      |  |  |  |
-| 02 | Compute solutions                         |  |  |  |
-| 03 | Non-relational storage solution           |  |  |  |
-| 04 | Relational storage solution               |  |  |  |
-| 05 | Data integration solutions                | No case study |  |  |
-| 06 | App architecture solutions                |  |  |  |
-| 07 | Authentication and authorization solutions|  |  |  |
-| 08 | Logging and monitoring solutions          |  |  |  |
-| 09 | Network infrastructure  solutions         |  |  |  |
-| 10 | Business continuity solutions             | No case study |  |  |
-| 11 | Migration solutions                       | No case study |  |  |
+| Module    | Classroom Whiteboard | Official Solution | Presentation |
+| ----------| ---------------------|-------------------|--------------|
+|    | Intro                                     |  |  |
+| 01 | Governance solutions                      |  | [Solution 01](https://github.com/www42/AZ-305/blob/9c21874956c2b284330ef6f6cad8c0669f6ab303/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module01.pdf) |
+| 02 | Compute solutions                         |  |  |
+| 03 | Non-relational storage solution           |  |  |
+| 04 | Relational storage solution               |  |  |
+| 05 | Data integration solutions                | No case study |  |
+| 06 | App architecture solutions                |  |  |
+| 07 | Authentication and authorization solutions|  |  |
+| 08 | Logging and monitoring solutions          |  |  |
+| 09 | Network infrastructure  solutions         |  |  |
+| 10 | Business continuity solutions             | No case study |  |
+| 11 | Migration solutions                       | No case study |  |
 
 ---
 
