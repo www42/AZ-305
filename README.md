@@ -16,7 +16,7 @@
 | 00 Intro                                     |  |  |
 | 01 Governance solutions                      | [Whiteboard 01](https://github.com/www42/AZ-305/blob/e2857b51658e82e3476d0e0967f8830fa2bf353c/Whiteboards/AZ-305_CaseStudy01.png) | [Solution 01](https://github.com/www42/AZ-305/blob/9c21874956c2b284330ef6f6cad8c0669f6ab303/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module01.pdf) |
 | 02 Compute solutions                         | [Whiteboard 02](https://github.com/www42/AZ-305/blob/7b1a95f7608d7ced2127d2df2ff9ce79131f0f42/Whiteboards/AZ-305_CaseStudy02.png) | [Solution 02](https://github.com/www42/AZ-305/blob/359f81e5c7e04cf40b17f48cd44014887865358f/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module02.pdf) |
-| 03 Non-relational storage solution           |  |  |
+| 03 Non-relational storage solution           | [Whiteboard 03](https://github.com/www42/AZ-305/blob/4f49587013d283dadb86da46b04c2a14902b2c87/Whiteboards/AZ-305_CaseStudy03.png) | [Solution 03](https://github.com/www42/AZ-305/blob/4f49587013d283dadb86da46b04c2a14902b2c87/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module03.pdf) |
 | 04 Relational storage solution               |  |  |
 | 05 Data integration solutions                | No case study |  |
 | 06 App architecture solutions                |  |  |
