@@ -22,7 +22,7 @@
 | 06 App architecture solutions                | [Whiteboard 06](https://github.com/www42/AZ-305/blob/0cc67f6b075081e0b12c104f872bcc84aa2fe824/Whiteboards/AZ-305_CaseStudy06.png) | [Solution 06](https://github.com/www42/AZ-305/blob/0cc67f6b075081e0b12c104f872bcc84aa2fe824/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module06.pdf) |
 | 07 Authentication and authorization solutions| [Whiteboard 07](https://github.com/www42/AZ-305/blob/b0fa9b2eff78e1e6edb5d72e4624f960c5989715/Whiteboards/AZ-305_CasyStudy07.png) | [Solution 07](https://github.com/www42/AZ-305/blob/b0fa9b2eff78e1e6edb5d72e4624f960c5989715/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module07.pdf) |
 | 08 Logging and monitoring solutions          |  |  |
-| 09 Network infrastructure  solutions         |  |  |
+| 09 Network infrastructure  solutions         | [Whiteboard 09](https://github.com/www42/AZ-305/blob/d853ea3e51bf330e60aac88f62904cb52f4cdc15/Whiteboards/AZ-305_CaseStudy09.png) | [Solution 09](https://github.com/www42/AZ-305/blob/d853ea3e51bf330e60aac88f62904cb52f4cdc15/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module09.pdf)  |
 | 10 Business continuity solutions             | No case study |  |
 | 11 Migration solutions                       | No case study |  |
 
