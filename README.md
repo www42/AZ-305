@@ -20,7 +20,7 @@
 | 04 Relational storage solution               | [Whiteboard 04](https://github.com/www42/AZ-305/blob/aee00a091f89deb55eb745ef8fa7b24ee0e2f766/Whiteboards/AZ-305_CaseStudy04.png) | [Solution 04](https://github.com/www42/AZ-305/blob/aee00a091f89deb55eb745ef8fa7b24ee0e2f766/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module04.pdf) |
 | 05 Data integration solutions                | No case study |  |
 | 06 App architecture solutions                | [Whiteboard 06](https://github.com/www42/AZ-305/blob/0cc67f6b075081e0b12c104f872bcc84aa2fe824/Whiteboards/AZ-305_CaseStudy06.png) | [Solution 06](https://github.com/www42/AZ-305/blob/0cc67f6b075081e0b12c104f872bcc84aa2fe824/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module06.pdf) |
-| 07 Authentication and authorization solutions|  |  |
+| 07 Authentication and authorization solutions| [Whiteboard 07](https://github.com/www42/AZ-305/blob/b0fa9b2eff78e1e6edb5d72e4624f960c5989715/Whiteboards/AZ-305_CasyStudy07.png) | [Solution 07](https://github.com/www42/AZ-305/blob/b0fa9b2eff78e1e6edb5d72e4624f960c5989715/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module07.pdf) |
 | 08 Logging and monitoring solutions          |  |  |
 | 09 Network infrastructure  solutions         |  |  |
 | 10 Business continuity solutions             | No case study |  |
