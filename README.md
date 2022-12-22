@@ -28,9 +28,9 @@
 
 ---
 
-[Give Feedback! (Metrics That Matter)](#az-305-designing-microsoft-azure-infrastructure-solutions)
+[Give Feedback! (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?F3AF63148192405093)
 
-[Claim your Badge! (Microsoft Learn)](##az-305-designing-microsoft-azure-infrastructure-solutions)
+[Claim your Badge! (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=22JPQ8&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
 
 ---
 
