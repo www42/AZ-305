@@ -1,6 +1,6 @@
 # AZ-305 Designing Microsoft Azure Infrastructure Solutions
 
-## Seminar 19. - 22. Dezember 2022
+## Seminar 16. - 19. Januarr 2023
 
 [Solutions Architect Certification](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
 
@@ -14,23 +14,23 @@
 | Module    | Classroom Whiteboard | Official Solution | Presentation |
 | ----------| ---------------------|-------------------|--------------|
 | 00 Intro                                     |  |  |
-| 01 Governance solutions                      | [Whiteboard 01](https://github.com/www42/AZ-305/blob/e2857b51658e82e3476d0e0967f8830fa2bf353c/Whiteboards/AZ-305_CaseStudy01.png) | [Solution 01](https://github.com/www42/AZ-305/blob/9c21874956c2b284330ef6f6cad8c0669f6ab303/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module01.pdf) |
-| 02 Compute solutions                         | [Whiteboard 02](https://github.com/www42/AZ-305/blob/7b1a95f7608d7ced2127d2df2ff9ce79131f0f42/Whiteboards/AZ-305_CaseStudy02.png) | [Solution 02](https://github.com/www42/AZ-305/blob/359f81e5c7e04cf40b17f48cd44014887865358f/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module02.pdf) |
-| 03 Non-relational storage solution           | [Whiteboard 03](https://github.com/www42/AZ-305/blob/4f49587013d283dadb86da46b04c2a14902b2c87/Whiteboards/AZ-305_CaseStudy03.png) | [Solution 03](https://github.com/www42/AZ-305/blob/4f49587013d283dadb86da46b04c2a14902b2c87/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module03.pdf) |
-| 04 Relational storage solution               | [Whiteboard 04](https://github.com/www42/AZ-305/blob/aee00a091f89deb55eb745ef8fa7b24ee0e2f766/Whiteboards/AZ-305_CaseStudy04.png) | [Solution 04](https://github.com/www42/AZ-305/blob/aee00a091f89deb55eb745ef8fa7b24ee0e2f766/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module04.pdf) |
+| 01 Governance solutions                      | [Whiteboard 01](#az-305-designing-microsoft-azure-infrastructure-solutions) | [Solution 01](#az-305-designing-microsoft-azure-infrastructure-solutions) |
+| 02 Compute solutions                         | [Whiteboard 02](#az-305-designing-microsoft-azure-infrastructure-solutions) | [Solution 02](#az-305-designing-microsoft-azure-infrastructure-solutions) |
+| 03 Non-relational storage solution           | [Whiteboard 03](#az-305-designing-microsoft-azure-infrastructure-solutions) | [Solution 03](#az-305-designing-microsoft-azure-infrastructure-solutions) |
+| 04 Relational storage solution               | [Whiteboard 04](#az-305-designing-microsoft-azure-infrastructure-solutions) | [Solution 04](#az-305-designing-microsoft-azure-infrastructure-solutions) |
 | 05 Data integration solutions                | No case study |  |
-| 06 App architecture solutions                | [Whiteboard 06](https://github.com/www42/AZ-305/blob/0cc67f6b075081e0b12c104f872bcc84aa2fe824/Whiteboards/AZ-305_CaseStudy06.png) | [Solution 06](https://github.com/www42/AZ-305/blob/0cc67f6b075081e0b12c104f872bcc84aa2fe824/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module06.pdf) |
-| 07 Authentication and authorization solutions| [Whiteboard 07](https://github.com/www42/AZ-305/blob/b0fa9b2eff78e1e6edb5d72e4624f960c5989715/Whiteboards/AZ-305_CasyStudy07.png) | [Solution 07](https://github.com/www42/AZ-305/blob/b0fa9b2eff78e1e6edb5d72e4624f960c5989715/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module07.pdf) |
-| 08 Logging and monitoring solutions          | [Whiteboard 08](https://github.com/www42/AZ-305/blob/7dbece78948bdfc3945cf1b8d6a11505c5b7bfd9/Whiteboards/AZ-305_CaseStudy08.png) | [Solution 08](https://github.com/www42/AZ-305/blob/7dbece78948bdfc3945cf1b8d6a11505c5b7bfd9/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module08.pdf)  |
-| 09 Network infrastructure  solutions         | [Whiteboard 09](https://github.com/www42/AZ-305/blob/d853ea3e51bf330e60aac88f62904cb52f4cdc15/Whiteboards/AZ-305_CaseStudy09.png) | [Solution 09](https://github.com/www42/AZ-305/blob/d853ea3e51bf330e60aac88f62904cb52f4cdc15/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module09.pdf)  |
+| 06 App architecture solutions                | [Whiteboard 06](#az-305-designing-microsoft-azure-infrastructure-solutions) | [Solution 06](#az-305-designing-microsoft-azure-infrastructure-solutions) |
+| 07 Authentication and authorization solutions| [Whiteboard 07](#az-305-designing-microsoft-azure-infrastructure-solutions) | [Solution 07](#az-305-designing-microsoft-azure-infrastructure-solutions) |
+| 08 Logging and monitoring solutions          | [Whiteboard 08](#az-305-designing-microsoft-azure-infrastructure-solutions) | [Solution 08](#az-305-designing-microsoft-azure-infrastructure-solutions) |
+| 09 Network infrastructure  solutions         | [Whiteboard 09](#az-305-designing-microsoft-azure-infrastructure-solutions) | [Solution 09](#az-305-designing-microsoft-azure-infrastructure-solutions) |
 | 10 Business continuity solutions             | No case study |  |
 | 11 Migration solutions                       | No case study |  |
 
 ---
 
-[Give Feedback! (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?F3AF63148192405093)
+[Give Feedback! (Metrics That Matter)](#az-305-designing-microsoft-azure-infrastructure-solutions)
 
-[Claim your Badge! (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=22JPQ8&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+[Claim your Badge! (Microsoft Learn)](#az-305-designing-microsoft-azure-infrastructure-solutions)
 
 ---
 
