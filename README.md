@@ -14,17 +14,17 @@
 | Module    | Classroom Whiteboard | Official Solution | Presentation |
 | ----------| ---------------------|-------------------|--------------|
 | 00 Intro                                     |  |  | [Presentation 00](https://github.com/www42/AZ-305/blob/c21b27b16cdec2753f3b1f7a9894cdd47e99c6a2/Presentations/AZ-305T00A-ENU-PowerPoint_00.pdf) |
-| 01 Governance solutions                      | [Whiteboard 01](#az-305-designing-microsoft-azure-infrastructure-solutions) | [Solution 01](#az-305-designing-microsoft-azure-infrastructure-solutions) |
-| 02 Compute solutions                         | [Whiteboard 02](#az-305-designing-microsoft-azure-infrastructure-solutions) | [Solution 02](#az-305-designing-microsoft-azure-infrastructure-solutions) |
-| 03 Non-relational storage solution           | [Whiteboard 03](#az-305-designing-microsoft-azure-infrastructure-solutions) | [Solution 03](#az-305-designing-microsoft-azure-infrastructure-solutions) |
-| 04 Relational storage solution               | [Whiteboard 04](#az-305-designing-microsoft-azure-infrastructure-solutions) | [Solution 04](#az-305-designing-microsoft-azure-infrastructure-solutions) |
+| 01 Governance solutions                      |  |  |  |
+| 02 Compute solutions                         |  |  |  |
+| 03 Non-relational storage solution           |  |  |  |
+| 04 Relational storage solution               |  |  |  |
 | 05 Data integration solutions                | No case study |  |
-| 06 App architecture solutions                | [Whiteboard 06](#az-305-designing-microsoft-azure-infrastructure-solutions) | [Solution 06](#az-305-designing-microsoft-azure-infrastructure-solutions) |
-| 07 Authentication and authorization solutions| [Whiteboard 07](#az-305-designing-microsoft-azure-infrastructure-solutions) | [Solution 07](#az-305-designing-microsoft-azure-infrastructure-solutions) |
-| 08 Logging and monitoring solutions          | [Whiteboard 08](#az-305-designing-microsoft-azure-infrastructure-solutions) | [Solution 08](#az-305-designing-microsoft-azure-infrastructure-solutions) |
-| 09 Network infrastructure  solutions         | [Whiteboard 09](#az-305-designing-microsoft-azure-infrastructure-solutions) | [Solution 09](#az-305-designing-microsoft-azure-infrastructure-solutions) |
-| 10 Business continuity solutions             | No case study |  |
-| 11 Migration solutions                       | No case study |  |
+| 06 App architecture solutions                |  |  |  |
+| 07 Authentication and authorization solutions|  |  |  |
+| 08 Logging and monitoring solutions          |  |  |  |
+| 09 Network infrastructure  solutions         |  |  |  |
+| 10 Business continuity solutions             | No case study |  |  |
+| 11 Migration solutions                       | No case study |  |  |
 
 ---
 
