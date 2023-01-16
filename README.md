@@ -13,7 +13,7 @@
 
 | Module    | Classroom Whiteboard | Official Solution | Presentation |
 | ----------| ---------------------|-------------------|--------------|
-| 00 Intro                                     |  |  |
+| 00 Intro                                     |  |  | [Presentation 00](https://github.com/www42/AZ-305/blob/c21b27b16cdec2753f3b1f7a9894cdd47e99c6a2/Presentations/AZ-305T00A-ENU-PowerPoint_00.pdf) |
 | 01 Governance solutions                      | [Whiteboard 01](#az-305-designing-microsoft-azure-infrastructure-solutions) | [Solution 01](#az-305-designing-microsoft-azure-infrastructure-solutions) |
 | 02 Compute solutions                         | [Whiteboard 02](#az-305-designing-microsoft-azure-infrastructure-solutions) | [Solution 02](#az-305-designing-microsoft-azure-infrastructure-solutions) |
 | 03 Non-relational storage solution           | [Whiteboard 03](#az-305-designing-microsoft-azure-infrastructure-solutions) | [Solution 03](#az-305-designing-microsoft-azure-infrastructure-solutions) |
