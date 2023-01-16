@@ -13,12 +13,12 @@
 
 | Module    | Classroom Whiteboard | Official Solution | Presentation |
 | ----------| ---------------------|-------------------|--------------|
-| 00 Intro                                     |  |  | [Presentation 00](https://github.com/www42/AZ-305/blob/c21b27b16cdec2753f3b1f7a9894cdd47e99c6a2/Presentations/AZ-305T00A-ENU-PowerPoint_00.pdf) |
+| 00 Intro                                     | No case study |  | [Presentation 00](https://github.com/www42/AZ-305/blob/c21b27b16cdec2753f3b1f7a9894cdd47e99c6a2/Presentations/AZ-305T00A-ENU-PowerPoint_00.pdf) |
 | 01 Governance solutions                      |  |  |  |
 | 02 Compute solutions                         |  |  |  |
 | 03 Non-relational storage solution           |  |  |  |
 | 04 Relational storage solution               |  |  |  |
-| 05 Data integration solutions                | No case study |  |
+| 05 Data integration solutions                | No case study |  |  |
 | 06 App architecture solutions                |  |  |  |
 | 07 Authentication and authorization solutions|  |  |  |
 | 08 Logging and monitoring solutions          |  |  |  |
