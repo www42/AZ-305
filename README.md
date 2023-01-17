@@ -38,7 +38,7 @@
 
 # Useful links
 
-[Azure Architecture Center](https://https://docs.microsoft.com/en-us/azure/architecture/)
+[Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 
 [Azure Charts](https://https://azurecharts.com/)
 
