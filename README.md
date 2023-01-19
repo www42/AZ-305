@@ -21,7 +21,7 @@
 | 05 Data integration solutions                | No case study | No case study | [Presentation 05](https://github.com/www42/AZ-305/blob/a6446d3f3e7c190106c7fdfe2f87fa5962ef2895/Presentations/AZ-305T00A-ENU-Powerpoint_05.pdf) |
 | 06 App architecture solutions                | [Whiteboard 06](https://github.com/www42/AZ-305/blob/e12c7769e50966463eb0edf78d6f9d5e8c85dc65/Whiteboards/AZ-305%20Whiteboard%2006.pdf) | [Solution 06](https://github.com/www42/AZ-305/blob/e12c7769e50966463eb0edf78d6f9d5e8c85dc65/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module06.pdf) | [Presentation 06](https://github.com/www42/AZ-305/blob/e12c7769e50966463eb0edf78d6f9d5e8c85dc65/Presentations/AZ-305T00A-ENU-PowerPoint_06.pdf) |
 | 07 Authentication and authorization solutions| [Whiteboard 07](https://github.com/www42/AZ-305/blob/94e18a910d26935ad91b177e6d8badb47061c9cc/Whiteboards/AZ-305%20Whiteboard%2007.pdf) | [Solution 07](https://github.com/www42/AZ-305/blob/94e18a910d26935ad91b177e6d8badb47061c9cc/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module07.pdf) | [Presentation 07](https://github.com/www42/AZ-305/blob/94e18a910d26935ad91b177e6d8badb47061c9cc/Presentations/AZ-305T00A-ENU-Powerpoint_07.pdf) |
-| 08 Logging and monitoring solutions          |  |  |  |
+| 08 Logging and monitoring solutions          |  |  | [Presentation 08](https://github.com/www42/AZ-305/blob/4a7c258c27b1a823ba320e0a45b537f1229418a7/Presentations/AZ-305T00A-ENU-Powerpoint_08.pdf) |
 | 09 Network infrastructure  solutions         |  |  |  |
 | 10 Business continuity solutions             | No case study | No case study |  |
 | 11 Migration solutions                       | No case study | No case study |  |
