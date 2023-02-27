@@ -13,7 +13,7 @@
 
 | Module    | Classroom Whiteboard | Official Solution | Presentation |
 | ----------| ---------------------|-------------------|--------------|
-| 00 Intro                                     | No case study | No case study |  |
+| 00 Intro                                     | No case study | No case study | [Presentation 00](https://github.com/www42/AZ-305/blob/9bd1dab805489aeac283e06ff8d404e2f230f178/Presentations/AZ-305T00A-ENU-PowerPoint_00.pdf) |
 | 01 Governance solutions                      |  |  |  |
 | 02 Compute solutions                         |  |  |  |
 | 03 Non-relational storage solution           |  |  |  |
