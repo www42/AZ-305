@@ -6,6 +6,8 @@
 
 [AZ-305 on Microsoft Learn](https://aka.ms/AZ-305StudentMaterials)
 
+[My personal collection on AZ-305](https://learn.microsoft.com/en-us/users/tjaekel/collections/wpm1t2xg5z6e1w)
+
 ## AZ-305 Case Studies
 
 [All case studies](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
@@ -48,6 +50,7 @@
 
 [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
 
+[Azure Messaging Standards Matter (Azure & AI Conference 2022)](https://www.youtube.com/watch?v=FVOhLqE9fzw) YouTube
 
 ##  Your Trainer
 #### Thomas Jäkel
