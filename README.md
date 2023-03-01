@@ -52,6 +52,10 @@
 
 [Azure Messaging Standards Matter (Azure & AI Conference 2022)](https://www.youtube.com/watch?v=FVOhLqE9fzw) YouTube
 
+[Bicep playground](https://aka.ms/bicepplayground)
+
+
+
 ##  Your Trainer
 #### Thomas Jäkel
 
