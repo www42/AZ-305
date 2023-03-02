@@ -25,8 +25,8 @@
 | 07 Authentication and authorization solutions| [Whiteboard 07](https://github.com/www42/AZ-305/blob/791bfd13e7156cbbca55d19602cc6d7452334a12/Whiteboards/AZ-305%20Whiteboard%2007.pdf) | [Solution 07]() | [Presentation 07](https://github.com/www42/AZ-305/blob/791bfd13e7156cbbca55d19602cc6d7452334a12/Presentations/AZ-305T00A-ENU-Powerpoint_07.pdf) |
 | 08 Logging and monitoring solutions          |  | [Solution 08](https://github.com/www42/AZ-305/blob/93d48f612ef7e5813ccb358b5e2b1806e084b2dc/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module08.pdf) | [Presentation 08](https://github.com/www42/AZ-305/blob/791bfd13e7156cbbca55d19602cc6d7452334a12/Presentations/AZ-305T00A-ENU-Powerpoint_08.pdf) |
 | 09 Network infrastructure  solutions         | [Whiteboard 09](https://github.com/www42/AZ-305/blob/93d48f612ef7e5813ccb358b5e2b1806e084b2dc/Whiteboards/AZ-305%20Whiteboard%2009.pdf) | [Solution 09](https://github.com/www42/AZ-305/blob/93d48f612ef7e5813ccb358b5e2b1806e084b2dc/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module09.pdf) | [Presentation 09](https://github.com/www42/AZ-305/blob/93d48f612ef7e5813ccb358b5e2b1806e084b2dc/Presentations/AZ-305T00A-ENU-Powerpoint_09.pdf) |
-| 10 Business continuity solutions             | No case study | No case study |  |
-| 11 Migration solutions                       | No case study | No case study |  |
+| 10 Business continuity solutions             | No case study | No case study | [Presentation 10](https://github.com/www42/AZ-305/blob/0f39f2186ab3eb5a99b073e209ed1b8b0929c847/Presentations/AZ-305T00A-ENU-Powerpoint_10.pdf) |
+| 11 Migration solutions                       | No case study | No case study | [Presentation 11](https://github.com/www42/AZ-305/blob/0f39f2186ab3eb5a99b073e209ed1b8b0929c847/Presentations/AZ-305T00A-ENU-Powerpoint_11.pdf) |
 
 ---
 
