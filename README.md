@@ -2,6 +2,12 @@
 
 ## Seminar 24. - 27. Juli 2023
 
+| Module  | Classroom Whiteboard | Official Solution | Presentation |
+| ---------------------------------------------| ------------------| ----------------| --------------------|
+| 00 Intro                                     | No case study     | No case study   | [Presentation 00](Presentations\AZ-305-00.pdf) |
+| 01 Governance solutions                      | [Whiteboard 01]() | [Solution 01]() | [Presentation 01]() |
+
+
 [Solutions Architect Certification](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
 
 [AZ-305 on Microsoft Learn](https://aka.ms/AZ-305StudentMaterials)
