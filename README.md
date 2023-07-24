@@ -14,6 +14,20 @@
 
 
 
+# Montag
+
+[Naming rules and restrictions for Azure resources](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/resource-name-rules)
+
+[Abbreviation examples for Azure resources](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations)
+
+[Microsoft Graph security API overview](https://learn.microsoft.com/en-us/graph/security-concept-overview)
+
+[Azure Resource Explorer](https://resources.azure.com/)
+
+[Azure Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
+
+[Bicep Playground](https://bicepdemo.z22.web.core.windows.net/)
+
 
 
 
