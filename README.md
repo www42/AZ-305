@@ -2,13 +2,18 @@
 
 ## Seminar 24. - 27. Juli 2023
 
+
+[All case studies](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
+
+
 | Module  | Classroom Whiteboard | Official Solution | Presentation |
-| ---------------------------------------------| ------------------| ----------------| --------------------|
-| 00 Intro                                     | No case study     | No case study   | [Presentation 00](Presentations/AZ-305-00.pdf) |
+| --------| ---------------------| ------------------| -------------|
+| 00 Intro                                     | No case study                                         | No case study                                   | [Presentation 00](Presentations/AZ-305-00.pdf) |
 | 01 Governance solutions                      | [Whiteboard 01](Whiteboards/AZ-305-Whiteboard-01.pdf) | [Solution 01](Solutions/AZ-305-Solution-01.pdf) | [Presentation 01](Presentations/AZ-305-01.pdf) |
 | 02 Compute solutions                         | [Whiteboard 02](Whiteboards/AZ-305-Whiteboard-02.pdf) | [Solution 02](Solutions/AZ-305-Solution-02.pdf) | [Presentation 02](Presentations/AZ-305-02.pdf) |
 
 
+---
 
 [Solutions Architect Certification](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
 
@@ -16,9 +21,6 @@
 
 [My personal collection on AZ-305](https://learn.microsoft.com/en-us/users/tjaekel/collections/wpm1t2xg5z6e1w)
 
-## AZ-305 Case Studies
-
-[All case studies](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
 
 
 
