@@ -23,6 +23,11 @@
 
 
 
+# Dienstag
+
+* [Azure Active Directory Kerberos authentication](https://learn.microsoft.com/en-us/azure/storage/files/storage-files-identity-auth-hybrid-identities-enable?tabs=azure-portal#prerequisites)
+
+
 
 # Montag
 
