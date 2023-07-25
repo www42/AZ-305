@@ -31,7 +31,7 @@
 
 [Azure SQL Hyperscale service tier](https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale)
 
-[https://learn.microsoft.com/en-us/azure/cosmos-db/](https://learn.microsoft.com/en-us/azure/cosmos-db/)
+[Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/)
 
 
 
