@@ -11,6 +11,10 @@
 | 00 Intro                                     | No case study                                         | No case study                                   | [Presentation 00](Presentations/AZ-305-00.pdf) |
 | 01 Governance solutions                      | [Whiteboard 01](Whiteboards/AZ-305-Whiteboard-01.pdf) | [Solution 01](Solutions/AZ-305-Solution-01.pdf) | [Presentation 01](Presentations/AZ-305-01.pdf) |
 | 02 Compute solutions                         | [Whiteboard 02](Whiteboards/AZ-305-Whiteboard-02.pdf) | [Solution 02](Solutions/AZ-305-Solution-02.pdf) | [Presentation 02](Presentations/AZ-305-02.pdf) |
+| 03 Non-relational storage solution           | [Whiteboard 03](Whiteboards/AZ-305-Whiteboard-03.pdf) | [Solution 03](Solutions/AZ-305-Solution-03.pdf) | [Presentation 03](Presentations/AZ-305-03.pdf) |
+| 04 Relational storage solution               | [Whiteboard 04](Whiteboards/AZ-305-Whiteboard-04.pdf) | [Solution 04](Solutions/AZ-305-Solution-04.pdf) | [Presentation 04](Presentations/AZ-305-04.pdf) |
+| 05 Data integration solutions                | No case study                                         | No case study                                   | [Presentation 05](Presentations/AZ-305-05.pdf) |
+
 
 
 ---
