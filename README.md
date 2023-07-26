@@ -27,6 +27,18 @@
 
 
 
+
+# Mittwoch
+
+[Azure IoT reference architecture](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/iot)
+
+[Integration Services](https://azure.microsoft.com/en-us/products/category/integration/)
+
+[Azure Messageing (youtube)](https://www.youtube.com/watch?v=FVOhLqE9fzw)
+
+
+
+
 # Dienstag
 
 [Google Bard](https://bard.google.com/)
