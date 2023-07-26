@@ -1,5 +1,15 @@
 # AZ-305 Designing Microsoft Azure Infrastructure Solutions
 
+
+[Solutions Architect Certification](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
+
+[AZ-305 on Microsoft Learn](https://aka.ms/AZ-305StudentMaterials)
+
+[My personal collection on AZ-305](https://learn.microsoft.com/en-us/users/tjaekel/collections/wpm1t2xg5z6e1w)
+
+
+
+
 ## Seminar 24. - 27. Juli 2023
 
 
@@ -19,16 +29,13 @@
 
 ---
 
-[Solutions Architect Certification](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
-
-[AZ-305 on Microsoft Learn](https://aka.ms/AZ-305StudentMaterials)
-
-[My personal collection on AZ-305](https://learn.microsoft.com/en-us/users/tjaekel/collections/wpm1t2xg5z6e1w)
-
-
 
 
 # Mittwoch
+
+[Public preview: Azure Cold Storage](https://azure.microsoft.com/de-de/updates/public-preview-azure-cold-storage/)
+
+[High availability for Azure SQL Database](https://learn.microsoft.com/en-us/azure/azure-sql/database/high-availability-sla?view=azuresql-db&tabs=azure-powershell)
 
 [Azure IoT reference architecture](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/iot)
 
