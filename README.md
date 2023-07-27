@@ -36,6 +36,9 @@
 | 07 Authentication and authorization solutions| [Whiteboard 07](Whiteboards/AZ-305-Whiteboard-07.pdf) | [Solution 07](Solutions/AZ-305-Solution-07.pdf) | [Presentation 07](Presentations/AZ-305-07.pdf) |
 | 08 Logging and monitoring solutions          |  |  | [Presentation 08](Presentations/AZ-305-08.pdf) |
 | 09 Network infrastructure  solutions         | [Whiteboard 09]() | [Solution 09]() | [Presentation 09](Presentations/AZ-305-09.pdf) |
+| 10 Business continuity solutions             | No case study     | No case study   | [Presentation 10](Presentations/AZ-305-10.pdf) |
+| 11 Migration solutions                       | No case study     | No case study   | [Presentation 11](Presentations/AZ-305-11.pdf) |
+
 
 
 
