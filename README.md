@@ -24,6 +24,11 @@
 | 03 Non-relational storage solution           | [Whiteboard 03](Whiteboards/AZ-305-Whiteboard-03.pdf) | [Solution 03](Solutions/AZ-305-Solution-03.pdf) | [Presentation 03](Presentations/AZ-305-03.pdf) |
 | 04 Relational storage solution               | [Whiteboard 04](Whiteboards/AZ-305-Whiteboard-04.pdf) | [Solution 04](Solutions/AZ-305-Solution-04.pdf) | [Presentation 04](Presentations/AZ-305-04.pdf) |
 | 05 Data integration solutions                | No case study                                         | No case study                                   | [Presentation 05](Presentations/AZ-305-05.pdf) |
+| 06 App architecture solutions                | [Whiteboard 06](Whiteboards/AZ-305-Whiteboard-06.pdf) | [Solution 06](Solutions/AZ-305-Solution-06.pdf) | [Presentation 06](Presentations/AZ-305-06.pdf) |
+| 07 Authentication and authorization solutions| [Whiteboard 07](Whiteboards/AZ-305-Whiteboard-07.pdf) | [Solution 07](Solutions/AZ-305-Solution-07.pdf) | [Presentation 07](Presentations/AZ-305-07.pdf) |
+| 08 Logging and monitoring solutions          |  |  | [Presentation 08](Presentations/AZ-305-08.pdf) |
+| 09 Network infrastructure  solutions         | [Whiteboard 09]() | [Solution 09]() | [Presentation 09](Presentations/AZ-305-09.pdf) |
+
 
 
 
@@ -77,7 +82,7 @@
 
 
 
-# Useful links
+# More useful links
 
 [Microsoft Train Cert Poster](https://aka.ms/TrainCertPoster)
 
