@@ -1,13 +1,5 @@
 # AZ-305 Designing Microsoft Azure Infrastructure Solutions
 
----
-
-[Give Feedback](https://www.metricsthatmatter.com/url/u.aspx?E37EBF430200021311)
-
-[Claim your badge](https://learn.microsoft.com/users/me/achievements?redeem=J65DR4&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
-
-
----
 
 [Solutions Architect Certification](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
 
