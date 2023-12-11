@@ -10,7 +10,7 @@
 
 
 
-## Seminar 24. - 27. Juli 2023
+## Seminar 11. - 14. Dezember 2023
 
 
 [All case studies](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
@@ -18,18 +18,18 @@
 
 | Module  | Classroom Whiteboard | Official Solution | Presentation |
 | :-------| :--------------------| :-----------------| :------------|
-| 00 Intro                                     | No case study                                         | No case study                                   | [Presentation 00](Presentations/AZ-305-00.pdf) |
-| 01 Governance solutions                      | [Whiteboard 01](Whiteboards/AZ-305-Whiteboard-01.pdf) | [Solution 01](Solutions/AZ-305-Solution-01.pdf) | [Presentation 01](Presentations/AZ-305-01.pdf) |
-| 02 Compute solutions                         | [Whiteboard 02](Whiteboards/AZ-305-Whiteboard-02.pdf) | [Solution 02](Solutions/AZ-305-Solution-02.pdf) | [Presentation 02](Presentations/AZ-305-02.pdf) |
-| 03 Non-relational storage solution           | [Whiteboard 03](Whiteboards/AZ-305-Whiteboard-03.pdf) | [Solution 03](Solutions/AZ-305-Solution-03.pdf) | [Presentation 03](Presentations/AZ-305-03.pdf) |
-| 04 Relational storage solution               | [Whiteboard 04](Whiteboards/AZ-305-Whiteboard-04.pdf) | [Solution 04](Solutions/AZ-305-Solution-04.pdf) | [Presentation 04](Presentations/AZ-305-04.pdf) |
-| 05 Data integration solutions                | No case study                                         | No case study                                   | [Presentation 05](Presentations/AZ-305-05.pdf) |
-| 06 App architecture solutions                | [Whiteboard 06](Whiteboards/AZ-305-Whiteboard-06.pdf) | [Solution 06](Solutions/AZ-305-Solution-06.pdf) | [Presentation 06](Presentations/AZ-305-06.pdf) |
-| 07 Authentication and authorization solutions| [Whiteboard 07](Whiteboards/AZ-305-Whiteboard-07.pdf) | [Solution 07](Solutions/AZ-305-Solution-07.pdf) | [Presentation 07](Presentations/AZ-305-07.pdf) |
-| 08 Logging and monitoring solutions          |  |  | [Presentation 08](Presentations/AZ-305-08.pdf) |
-| 09 Network infrastructure  solutions         | [Whiteboard 09]() | [Solution 09]() | [Presentation 09](Presentations/AZ-305-09.pdf) |
-| 10 Business continuity solutions             | No case study     | No case study   | [Presentation 10](Presentations/AZ-305-10.pdf) |
-| 11 Migration solutions                       | No case study     | No case study   | [Presentation 11](Presentations/AZ-305-11.pdf) |
+| 00 Intro                                     | No case study                                         | No case study                                   |  |
+| 01 Governance solutions                      |  |  |  |
+| 02 Compute solutions                         |  |  |  |
+| 03 Non-relational storage solution           |  |  |  |
+| 04 Relational storage solution               |  |  |  |
+| 05 Data integration solutions                | No case study                                         | No case study                                   |  |
+| 06 App architecture solutions                |  |  |  |
+| 07 Authentication and authorization solutions|  |  |  |
+| 08 Logging and monitoring solutions          |  |  |  |
+| 09 Network infrastructure  solutions         |  |  |  |
+| 10 Business continuity solutions             | No case study     | No case study   |  |
+| 11 Migration solutions                       | No case study     | No case study   |  |
 
 
 
@@ -39,9 +39,6 @@
 
 
 
-# Mittwoch
-
-[Public preview: Azure Cold Storage](https://azure.microsoft.com/de-de/updates/public-preview-azure-cold-storage/)
 
 [High availability for Azure SQL Database](https://learn.microsoft.com/en-us/azure/azure-sql/database/high-availability-sla?view=azuresql-db&tabs=azure-powershell)
 
@@ -54,10 +51,6 @@
 
 
 
-# Dienstag
-
-[Google Bard](https://bard.google.com/)
-
 [Azure Active Directory Kerberos authentication](https://learn.microsoft.com/en-us/azure/storage/files/storage-files-identity-auth-hybrid-identities-enable?tabs=azure-portal#prerequisites)
 
 [Azure SQL Database and Azure SQL Managed Instance](https://learn.microsoft.com/en-us/azure/azure-sql/database/features-comparison)
@@ -67,8 +60,6 @@
 [Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/)
 
 
-
-# Montag
 
 [Naming rules and restrictions for Azure resources](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/resource-name-rules)
 
