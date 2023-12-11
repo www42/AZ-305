@@ -18,8 +18,8 @@
 
 | Module  | Classroom Whiteboard | Official Solution | Presentation |
 | :-------| :--------------------| :-----------------| :------------|
-| 00 Intro                                     | No case study                                         | No case study                                   |  |
-| 01 Governance solutions                      |  |  |  |
+| 00 Intro                                     | No case study     | No case study   | [Presentation 00](https://github.com/www42/AZ-305/blob/54825a8c11db215058f9cb627f2e9b74fa124ed4/Presentations/AZ-305_00.pdf) |
+| 01 Governance solutions                      | [Whiteboard 01](https://github.com/www42/AZ-305/blob/54825a8c11db215058f9cb627f2e9b74fa124ed4/Whiteboards/AZ-305%20Case%201.pdf) | [Solution 01](https://github.com/www42/AZ-305/blob/54825a8c11db215058f9cb627f2e9b74fa124ed4/Solutions/AZ-305-Solution-01.pdf) | [Presentation 01](https://github.com/www42/AZ-305/blob/54825a8c11db215058f9cb627f2e9b74fa124ed4/Presentations/AZ-305_01.pdf) |
 | 02 Compute solutions                         |  |  |  |
 | 03 Non-relational storage solution           |  |  |  |
 | 04 Relational storage solution               |  |  |  |
