@@ -5,7 +5,8 @@
 
 [AZ-305 on Microsoft Learn](https://aka.ms/AZ-305StudentMaterials)
 
-[My personal collection on AZ-305](https://learn.microsoft.com/en-us/users/tjaekel/collections/wpm1t2xg5z6e1w)
+[Microsoft Train Cert Poster](https://aka.ms/TrainCertPoster)
+
 
 
 
@@ -38,7 +39,12 @@
 ---
 
 
+## Tag 1
 
+[Phippy’s Field Guide to Wasm - Karen Chu & Matt Butcher, Fermyon - YouTube](https://www.youtube.com/watch?v=eFE6yGufDAA)
+
+
+# More useful links
 
 [High availability for Azure SQL Database](https://learn.microsoft.com/en-us/azure/azure-sql/database/high-availability-sla?view=azuresql-db&tabs=azure-powershell)
 
@@ -49,8 +55,6 @@
 [Azure Messageing (youtube)](https://www.youtube.com/watch?v=FVOhLqE9fzw)
 
 
-
-
 [Azure Active Directory Kerberos authentication](https://learn.microsoft.com/en-us/azure/storage/files/storage-files-identity-auth-hybrid-identities-enable?tabs=azure-portal#prerequisites)
 
 [Azure SQL Database and Azure SQL Managed Instance](https://learn.microsoft.com/en-us/azure/azure-sql/database/features-comparison)
@@ -58,7 +62,6 @@
 [Azure SQL Hyperscale service tier](https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale)
 
 [Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/)
-
 
 
 [Naming rules and restrictions for Azure resources](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/resource-name-rules)
@@ -76,9 +79,7 @@
 
 
 
-# More useful links
 
-[Microsoft Train Cert Poster](https://aka.ms/TrainCertPoster)
 
 [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 
