@@ -41,6 +41,8 @@
 
 ## Tag 1
 
+[Choose an Azure compute service - Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
+
 [Phippy’s Field Guide to Wasm - Karen Chu & Matt Butcher, Fermyon - YouTube](https://www.youtube.com/watch?v=eFE6yGufDAA)
 
 
