@@ -11,26 +11,11 @@
 
 
 
-## Seminar 11. - 14. Dezember 2023
+## Seminar 
 
 
 [All case studies](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
 
-
-| Module  | Classroom Whiteboard | Official Solution | Presentation |
-| :-------| :--------------------| :-----------------| :------------|
-| 00 Intro                                     | No case study     | No case study   | [Presentation 00](https://github.com/www42/AZ-305/blob/54825a8c11db215058f9cb627f2e9b74fa124ed4/Presentations/AZ-305_00.pdf) |
-| 01 Governance solutions                      | [Whiteboard 01](https://github.com/www42/AZ-305/blob/54825a8c11db215058f9cb627f2e9b74fa124ed4/Whiteboards/AZ-305%20Case%201.pdf) | [Solution 01](https://github.com/www42/AZ-305/blob/54825a8c11db215058f9cb627f2e9b74fa124ed4/Solutions/AZ-305-Solution-01.pdf) | [Presentation 01](https://github.com/www42/AZ-305/blob/54825a8c11db215058f9cb627f2e9b74fa124ed4/Presentations/AZ-305_01.pdf) |
-| 02 Compute solutions                         | [Whiteboard 02](https://github.com/www42/AZ-305/blob/ce150e5562e1841b053258ee370e5ef1a5928f55/Whiteboards/AZ-305%20Case%202.pdf) | [Solution 02](https://github.com/www42/AZ-305/blob/ce150e5562e1841b053258ee370e5ef1a5928f55/Solutions/AZ-305-Solution-02.pdf) | [Presentation 02](https://github.com/www42/AZ-305/blob/ce150e5562e1841b053258ee370e5ef1a5928f55/Presentations/AZ-305_02.pdf) |
-| 03 Non-relational storage solution           | [Whiteboard 03](https://github.com/www42/AZ-305/blob/6116dc5c161ae4b29bf67ee93042d0a12e8d5b1b/Whiteboards/AZ-305%20Case%203.pdf) | [Solution 03](https://github.com/www42/AZ-305/blob/6116dc5c161ae4b29bf67ee93042d0a12e8d5b1b/Solutions/AZ-305-Solution-03.pdf) | [Presentation 03](https://github.com/www42/AZ-305/blob/6116dc5c161ae4b29bf67ee93042d0a12e8d5b1b/Presentations/AZ-305_03.pdf) |
-| 04 Relational storage solution               | [Whiteboard 04](https://github.com/www42/AZ-305/blob/6116dc5c161ae4b29bf67ee93042d0a12e8d5b1b/Whiteboards/AZ-305%20Case%204.pdf) | [Solution 04](https://github.com/www42/AZ-305/blob/6116dc5c161ae4b29bf67ee93042d0a12e8d5b1b/Solutions/AZ-305-Solution-04.pdf) | [Presentation 04](https://github.com/www42/AZ-305/blob/6116dc5c161ae4b29bf67ee93042d0a12e8d5b1b/Presentations/AZ-305_04.pdf) |
-| 05 Data integration solutions                | No case study     | No case study   | [Presentation 05](https://github.com/www42/AZ-305/blob/6116dc5c161ae4b29bf67ee93042d0a12e8d5b1b/Presentations/AZ-305_05.pdf) |
-| 06 App architecture solutions                | [Whiteboard 06](https://github.com/www42/AZ-305/blob/6116dc5c161ae4b29bf67ee93042d0a12e8d5b1b/Whiteboards/AZ-305%20Case%206.pdf) | [Solution 06](https://github.com/www42/AZ-305/blob/6116dc5c161ae4b29bf67ee93042d0a12e8d5b1b/Solutions/AZ-305-Solution-06.pdf) | [Presentation 06](https://github.com/www42/AZ-305/blob/6116dc5c161ae4b29bf67ee93042d0a12e8d5b1b/Presentations/AZ-305_06.pdf) |
-| 07 Authentication and authorization solutions| [Whiteboard 07](https://github.com/www42/AZ-305/blob/e83616e7b2849cf6c9c3d29e6338305fd8834f7c/Whiteboards/AZ-305%20Case%207.pdf) | [Solution 07](https://github.com/www42/AZ-305/blob/e83616e7b2849cf6c9c3d29e6338305fd8834f7c/Solutions/AZ-305-Solution-07.pdf) | [Presentation 07](https://github.com/www42/AZ-305/blob/e83616e7b2849cf6c9c3d29e6338305fd8834f7c/Presentations/AZ-305_07.pdf) |
-| 08 Logging and monitoring solutions          | [Whiteboard 08](https://github.com/www42/AZ-305/blob/f5516f7bc115e92574ddf4fea488b859ef6b677c/Whiteboards/AZ-305%20Case%208.pdf) | [Solution 08](https://github.com/www42/AZ-305/blob/f5516f7bc115e92574ddf4fea488b859ef6b677c/Solutions/AZ-305-Solution-08.pdf) | [Presentation 08](https://github.com/www42/AZ-305/blob/86abab4c92feb5521c9bb14098517234d7b2c640/Presentations/AZ-305_08.pdf) |
-| 09 Network infrastructure  solutions         | [Whiteboard 09](https://github.com/www42/AZ-305/blob/d8bb68650f07199c300f515e6169921541ca0fa8/Whiteboards/AZ-305%20Case%209.pdf) | [Solution 09](https://github.com/www42/AZ-305/blob/d8bb68650f07199c300f515e6169921541ca0fa8/Solutions/AZ-305-Solution-09.pdf) | [Presentation 09](https://github.com/www42/AZ-305/blob/86abab4c92feb5521c9bb14098517234d7b2c640/Presentations/AZ-305_09.pdf) |
-| 10 Business continuity solutions             | No case study     | No case study   | [Presentation 10](https://github.com/www42/AZ-305/blob/f5516f7bc115e92574ddf4fea488b859ef6b677c/Presentations/AZ-305_10.pdf) |
-| 11 Migration solutions                       | No case study     | No case study   | [Presentation 11](https://github.com/www42/AZ-305/blob/f5516f7bc115e92574ddf4fea488b859ef6b677c/Presentations/AZ-305_11.pdf) |
 
 
 
