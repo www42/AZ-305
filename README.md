@@ -10,6 +10,11 @@
 | 04 Relational storage solution               | [Whiteboard 04](https://github.com/www42/AZ-305/blob/c4a9654c0711e0f16849cadf82df6c777f87742d/Whiteboards/AZ-305%20Case%204.png) | [Solution 04](https://github.com/www42/AZ-305/blob/c72ef5f4563ce1483a66a138334f522b345b3bf2/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module04.pdf) | [Presentation 04](https://github.com/www42/AZ-305/blob/a201837da9b885428468b8514fc2d1b2b4bcc739/Presentations/AZ-305_04.pdf) |
 
 
+<br>
+
+<br>
+
+<br>
 [Solutions Architect Certification](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
 
 [AZ-305 on Microsoft Learn](https://aka.ms/AZ-305StudentMaterials)
