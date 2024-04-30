@@ -15,6 +15,7 @@
 <br>
 
 <br>
+
 [Solutions Architect Certification](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
 
 [AZ-305 on Microsoft Learn](https://aka.ms/AZ-305StudentMaterials)
