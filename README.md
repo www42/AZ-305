@@ -8,6 +8,13 @@
 | 02 Compute solutions                         | [Whiteboard 02](https://github.com/www42/AZ-305/blob/c4a9654c0711e0f16849cadf82df6c777f87742d/Whiteboards/AZ-305%20Case%202.png) | [Solution 02](https://github.com/www42/AZ-305/blob/c72ef5f4563ce1483a66a138334f522b345b3bf2/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module02.pdf) | [Presentation 02](https://github.com/www42/AZ-305/blob/c72ef5f4563ce1483a66a138334f522b345b3bf2/Presentations/AZ-305_02.pdf) |
 | 03 Non-relational storage solution           | [Whiteboard 03](https://github.com/www42/AZ-305/blob/c4a9654c0711e0f16849cadf82df6c777f87742d/Whiteboards/AZ-305%20Case%203.png) | [Solution 03](https://github.com/www42/AZ-305/blob/c72ef5f4563ce1483a66a138334f522b345b3bf2/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module03.pdf) | [Presentation 03](https://github.com/www42/AZ-305/blob/c72ef5f4563ce1483a66a138334f522b345b3bf2/Presentations/AZ-305_03.pdf) |
 | 04 Relational storage solution               | [Whiteboard 04](https://github.com/www42/AZ-305/blob/c4a9654c0711e0f16849cadf82df6c777f87742d/Whiteboards/AZ-305%20Case%204.png) | [Solution 04](https://github.com/www42/AZ-305/blob/c72ef5f4563ce1483a66a138334f522b345b3bf2/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module04.pdf) | [Presentation 04](https://github.com/www42/AZ-305/blob/a201837da9b885428468b8514fc2d1b2b4bcc739/Presentations/AZ-305_04.pdf) |
+| 05 Data integration solutions                | No case study     | No case study   | [Presentation 05](https://github.com/www42/AZ-305/blob/0491bc9f55ec1b74b896fa33ba205d43e8294109/Presentations/AZ-305_05.pdf) |
+| 06 App architecture solutions                |  |  |  |
+| 07 Authentication and authorization solutions|  |  |  |
+| 08 Logging and monitoring solutions          |  |  |  |
+| 09 Network infrastructure  solutions         |  |  |  |
+| 10 Business continuity solutions             | No case study     | No case study   |  |
+| 11 Migration solutions                       | No case study     | No case study   |  |
 
 
 <br>
