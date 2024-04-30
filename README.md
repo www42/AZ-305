@@ -1,6 +1,15 @@
 # AZ-305 Designing Microsoft Azure Infrastructure Solutions
 
 
+| Module  | Classroom Whiteboard | Official Solution | Presentation |
+| :-------| :--------------------| :-----------------| :------------|
+| 00 Intro                                     | No case study     | No case study   | [Presentation 00](https://github.com/www42/AZ-305/blob/646990edd682888976d1de3e4a3ff6ea581f7f30/Presentations/AZ-305_00.pdf) |
+| 01 Governance solutions                      | [Whiteboard 01](https://github.com/www42/AZ-305/blob/c4a9654c0711e0f16849cadf82df6c777f87742d/Whiteboards/AZ-305%20Case%201.png) | [Solution 01](https://github.com/www42/AZ-305/blob/c72ef5f4563ce1483a66a138334f522b345b3bf2/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module01.pdf) | [Presentation 01](https://github.com/www42/AZ-305/blob/646990edd682888976d1de3e4a3ff6ea581f7f30/Presentations/AZ-305_01.pdf) |
+| 02 Compute solutions                         | [Whiteboard 02](https://github.com/www42/AZ-305/blob/c4a9654c0711e0f16849cadf82df6c777f87742d/Whiteboards/AZ-305%20Case%202.png) | [Solution 02](https://github.com/www42/AZ-305/blob/c72ef5f4563ce1483a66a138334f522b345b3bf2/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module02.pdf) | [Presentation 02](https://github.com/www42/AZ-305/blob/c72ef5f4563ce1483a66a138334f522b345b3bf2/Presentations/AZ-305_02.pdf) |
+| 03 Non-relational storage solution           | [Whiteboard 03](https://github.com/www42/AZ-305/blob/c4a9654c0711e0f16849cadf82df6c777f87742d/Whiteboards/AZ-305%20Case%203.png) | [Solution 03](https://github.com/www42/AZ-305/blob/c72ef5f4563ce1483a66a138334f522b345b3bf2/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module03.pdf) | [Presentation 03](https://github.com/www42/AZ-305/blob/c72ef5f4563ce1483a66a138334f522b345b3bf2/Presentations/AZ-305_03.pdf) |
+| 04 Relational storage solution               | [Whiteboard 04](https://github.com/www42/AZ-305/blob/c4a9654c0711e0f16849cadf82df6c777f87742d/Whiteboards/AZ-305%20Case%204.png) | [Solution 04](https://github.com/www42/AZ-305/blob/c72ef5f4563ce1483a66a138334f522b345b3bf2/Solutions/AZ-305T00A-ENU-StudentCaseStudySolutionHandout-Module04.pdf) | [Presentation 04](https://github.com/www42/AZ-305/blob/a201837da9b885428468b8514fc2d1b2b4bcc739/Presentations/AZ-305_04.pdf) |
+
+
 [Solutions Architect Certification](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
 
 [AZ-305 on Microsoft Learn](https://aka.ms/AZ-305StudentMaterials)
