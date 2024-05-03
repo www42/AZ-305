@@ -1,5 +1,9 @@
 # AZ-305 Designing Microsoft Azure Infrastructure Solutions
 
+## Seminar 29.04 2024
+
+[All case studies](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
+
 
 | Module  | Classroom Whiteboard | Official Solution | Presentation |
 | :-------| :--------------------| :-----------------| :------------|
@@ -23,11 +27,18 @@
 
 <br>
 
-[Solutions Architect Certification](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
+## Learning Paths
 
 [AZ-305 on Microsoft Learn](https://aka.ms/AZ-305StudentMaterials)
 
 [Microsoft Train Cert Poster](https://aka.ms/TrainCertPoster)
+
+
+
+## Certification
+
+[Solutions Architect Certification](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
+
 
 
 ## New: Applied Skills
@@ -43,31 +54,17 @@ Applied Skill [Secure storage for Azure Files and Azure Blob Storage](https://le
 [Browse Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
 
----
 
 
+# More useful links
 
-## Seminar 
+[Data analysis with Kusto Query Language](https://learn.microsoft.com/en-us/training/paths/kusto-query-language/)
 
-
-[All case studies](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
-
-
-
-
-
-
----
-
-
-## Tag 1
+[Analyze monitoring data with Kusto Query Language](https://learn.microsoft.com/en-us/training/paths/analyze-monitoring-data-with-kql/)
 
 [Choose an Azure compute service - Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
 
 [Phippy’s Field Guide to Wasm - Karen Chu & Matt Butcher, Fermyon - YouTube](https://www.youtube.com/watch?v=eFE6yGufDAA)
-
-
-# More useful links
 
 [High availability for Azure SQL Database](https://learn.microsoft.com/en-us/azure/azure-sql/database/high-availability-sla?view=azuresql-db&tabs=azure-powershell)
 
@@ -77,7 +74,6 @@ Applied Skill [Secure storage for Azure Files and Azure Blob Storage](https://le
 
 [Azure Messageing (youtube)](https://www.youtube.com/watch?v=FVOhLqE9fzw)
 
-
 [Azure Active Directory Kerberos authentication](https://learn.microsoft.com/en-us/azure/storage/files/storage-files-identity-auth-hybrid-identities-enable?tabs=azure-portal#prerequisites)
 
 [Azure SQL Database and Azure SQL Managed Instance](https://learn.microsoft.com/en-us/azure/azure-sql/database/features-comparison)
@@ -85,7 +81,6 @@ Applied Skill [Secure storage for Azure Files and Azure Blob Storage](https://le
 [Azure SQL Hyperscale service tier](https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale)
 
 [Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/)
-
 
 [Naming rules and restrictions for Azure resources](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/resource-name-rules)
 
