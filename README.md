@@ -1,14 +1,12 @@
 # AZ-305 Designing Microsoft Azure Infrastructure Solutions
 
-[<span style="color: red;">Give feedback</span>](https://www.metricsthatmatter.com/url/u.aspx?0B0D6EB61209764199)
+[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?0B0D6EB61209764199)
 
 [Claim your badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=X2P65P)
 
 
 
 ## Seminar 29.04. 2024
-
-<span style="color: red;">wichtig</span>
 
 [All case studies](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
 
