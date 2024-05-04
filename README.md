@@ -6,7 +6,9 @@
 
 
 
-## <span style="color: red;">Seminar 29.04. 2024</span>
+## Seminar 29.04. 2024
+
+<span style="color: red;">wichtig</span>
 
 [All case studies](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
 
