@@ -1,6 +1,6 @@
 # AZ-305 Designing Microsoft Azure Infrastructure Solutions
 
-[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?0B0D6EB61209764199)
+[<span style="color: red;">Give feedback</span>](https://www.metricsthatmatter.com/url/u.aspx?0B0D6EB61209764199)
 
 [Claim your badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=X2P65P)
 
