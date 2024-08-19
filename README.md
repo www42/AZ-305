@@ -131,8 +131,6 @@ Applied Skill [Secure storage for Azure Files and Azure Blob Storage](https://le
 
 [Follow me on Twitter](https://twitter.com/tjkkll)
 
-[My Blog](https://blog.az.training)
-
 ---
 
 [Top](#az-305-designing-microsoft-azure-infrastructure-solutions)
