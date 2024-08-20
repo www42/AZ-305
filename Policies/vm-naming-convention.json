@@ -1,0 +1,31 @@
+{
+  "properties": {
+    "displayName": "Enforce VM naming convention",
+    "policyType": "Custom",
+    "description": "Ensures that VM names start with 'vm-' and are up to 15 characters long.",
+    "mode": "All",
+    "metadata": {
+      "category": "Naming"
+    },
+    "parameters": {},
+    "policyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Compute/virtualMachines"
+          },
+          {
+            "not": {
+              "field": "name",
+              "match": "^vm-[a-zA-Z0-9]{1,12}$"
+            }
+          }
+        ]
+      },
+      "then": {
+        "effect": "deny"
+      }
+    }
+  }
+}
