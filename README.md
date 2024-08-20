@@ -10,7 +10,7 @@
 | :-------| :--------------------| :-----------------| :------------|
 | 00 Intro                                     | No case study     | No case study   | [Presentation 00](https://github.com/www42/AZ-305/blob/9fb1a940fc3cedd8940352eb0743d3a05405cd05/Presentations/AZ-305_00.pdf) |
 | 01 Governance solutions                      | [Whiteboard 01](https://github.com/www42/AZ-305/blob/34dc02583d7ffe1838f87fcb14be60ddce0db7ea/Whiteboards/AZ-305%20Case%201.png) | [Solution 01](https://github.com/www42/AZ-305/blob/34dc02583d7ffe1838f87fcb14be60ddce0db7ea/Solutions/AZ-305-Solution-01.pdf) | [Presentation 01](https://github.com/www42/AZ-305/blob/34dc02583d7ffe1838f87fcb14be60ddce0db7ea/Presentations/AZ-305_01.pdf) |
-| 02 Compute solutions                         |  |  |  |
+| 02 Compute solutions                         | [Whiteboard 02](https://github.com/www42/AZ-305/blob/a161fcf135cb3173573b51859747b71c97feedb6/Whiteboards/AZ-305%20Case%202.png) | [Solution 02]() | [Presentation 02](https://github.com/www42/AZ-305/blob/a161fcf135cb3173573b51859747b71c97feedb6/Presentations/AZ-305_02.pdf) |
 | 03 Non-relational storage solution           |  |  |  |
 | 04 Relational storage solution               |  |  |  |
 | 05 Data integration solutions                | No case study     | No case study   |  |
