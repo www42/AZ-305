@@ -56,6 +56,12 @@ Applied Skill [Secure storage for Azure Files and Azure Blob Storage](https://le
 
 
 
+### Mandatory multi-factor authentication for Azure sign-in
+
+[Announcing mandatory multi-factor authentication for Azure sign-in](https://azure.microsoft.com/en-us/blog/announcing-mandatory-multi-factor-authentication-for-azure-sign-in/)
+
+
+
 ## More useful links
 
 [Data analysis with Kusto Query Language](https://learn.microsoft.com/en-us/training/paths/kusto-query-language/)
