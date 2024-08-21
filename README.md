@@ -14,7 +14,7 @@
 | 03 Non-relational storage solution           | [Whiteboard 03](https://github.com/www42/AZ-305/blob/de9f6cc1df7630a98b4a86ff1cb0b5937d96c474/Whiteboards/AZ-305%20Case%203.png) | [Solution 03](https://github.com/www42/AZ-305/blob/de9f6cc1df7630a98b4a86ff1cb0b5937d96c474/Solutions/AZ-305-Solution-03.pdf) | [Presentation 03](https://github.com/www42/AZ-305/blob/de9f6cc1df7630a98b4a86ff1cb0b5937d96c474/Presentations/AZ-305_03.pdf) |
 | 04 Relational storage solution               | [Whiteboard 04](https://github.com/www42/AZ-305/blob/d14c35d9f4584cc2b3c1204db172a032350ecd3b/Whiteboards/AZ-305%20Case%204.png) | [Solution 04](https://github.com/www42/AZ-305/blob/d14c35d9f4584cc2b3c1204db172a032350ecd3b/Solutions/AZ-305-Solution-04.pdf) | [Presentation 04](https://github.com/www42/AZ-305/blob/d14c35d9f4584cc2b3c1204db172a032350ecd3b/Presentations/AZ-305_04.pdf) |
 | 05 Data integration solutions                | No case study     | No case study   | [Presentation 05](https://github.com/www42/AZ-305/blob/d14c35d9f4584cc2b3c1204db172a032350ecd3b/Presentations/AZ-305_05.pdf) |
-| 06 App architecture solutions                |  |  |  |
+| 06 App architecture solutions                | [Whiteboard 06](https://github.com/www42/AZ-305/blob/d896662ad25ba6905afc6d51af5d334ce7058304/Whiteboards/AZ-305%20Case%206.png) | [Solution 06](https://github.com/www42/AZ-305/blob/d896662ad25ba6905afc6d51af5d334ce7058304/Solutions/AZ-305-Solution-06.pdf) | [Presentation 06](https://github.com/www42/AZ-305/blob/d896662ad25ba6905afc6d51af5d334ce7058304/Presentations/AZ-305_06.pdf) |
 | 07 Authentication and authorization solutions|  |  |  |
 | 08 Logging and monitoring solutions          |  |  |  |
 | 09 Network infrastructure  solutions         |  |  |  |
