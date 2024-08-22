@@ -26,10 +26,10 @@
 | 05 Data integration solutions                | No case study     | No case study   | [Presentation 05](https://github.com/www42/AZ-305/blob/d14c35d9f4584cc2b3c1204db172a032350ecd3b/Presentations/AZ-305_05.pdf) |
 | 06 App architecture solutions                | [Whiteboard 06](https://github.com/www42/AZ-305/blob/d896662ad25ba6905afc6d51af5d334ce7058304/Whiteboards/AZ-305%20Case%206.png) | [Solution 06](https://github.com/www42/AZ-305/blob/d896662ad25ba6905afc6d51af5d334ce7058304/Solutions/AZ-305-Solution-06.pdf) | [Presentation 06](https://github.com/www42/AZ-305/blob/d896662ad25ba6905afc6d51af5d334ce7058304/Presentations/AZ-305_06.pdf) |
 | 07 Authentication and authorization solutions| [Whiteboard 07](https://github.com/www42/AZ-305/blob/d379380e92c76c425cefb6ad4c1eb4e19530ccfe/Whiteboards/AZ-305%20Case%207.png) | [Solution 07](https://github.com/www42/AZ-305/blob/d379380e92c76c425cefb6ad4c1eb4e19530ccfe/Solutions/AZ-305-Solution-07.pdf) | [Presentation 07](https://github.com/www42/AZ-305/blob/d379380e92c76c425cefb6ad4c1eb4e19530ccfe/Presentations/AZ-305_07.pdf) |
-| 08 Logging and monitoring solutions          |  |  | [Presentation 08](https://github.com/www42/AZ-305/blob/2bc712c653092bbd87bb86283d1d4893522a8206/Presentations/AZ-305_08.pdf) |
-| 09 Network infrastructure  solutions         |  |  | [Presentation 09](https://github.com/www42/AZ-305/blob/2bc712c653092bbd87bb86283d1d4893522a8206/Presentations/AZ-305_09.pdf) |
+| 08 Logging and monitoring solutions          | [Whiteboard 08](https://github.com/www42/AZ-305/blob/7f0024bb983a5d9daae8829582c63be0ff51c800/Whiteboards/AZ-305%20Case%208.png) | [Solution 08](https://github.com/www42/AZ-305/blob/7f0024bb983a5d9daae8829582c63be0ff51c800/Solutions/AZ-305-Solution-08.pdf) | [Presentation 08](https://github.com/www42/AZ-305/blob/2bc712c653092bbd87bb86283d1d4893522a8206/Presentations/AZ-305_08.pdf) |
+| 09 Network infrastructure  solutions         |  | [Solution 09](https://github.com/www42/AZ-305/blob/7f0024bb983a5d9daae8829582c63be0ff51c800/Solutions/AZ-305-Solution-09.pdf) | [Presentation 09](https://github.com/www42/AZ-305/blob/2bc712c653092bbd87bb86283d1d4893522a8206/Presentations/AZ-305_09.pdf) |
 | 10 Business continuity solutions             | No case study     | No case study   | [Presentation 10](https://github.com/www42/AZ-305/blob/2bc712c653092bbd87bb86283d1d4893522a8206/Presentations/AZ-305_10.pdf) |
-| 11 Migration solutions                       | No case study     | No case study   |  |
+| 11 Migration solutions                       | No case study     | No case study   | [Presentation 11](https://github.com/www42/AZ-305/blob/7f0024bb983a5d9daae8829582c63be0ff51c800/Presentations/AZ-305_11.pdf) |
 
 <br>
 
