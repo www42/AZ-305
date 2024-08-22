@@ -3,6 +3,16 @@
 
 ## Seminar 19.08.2024
 
+
+[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?9BD583B9E213266093)
+
+[Grab your badge (Microsoft Learn)](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=KQ6YMR)
+
+
+<br>
+
+<br>
+
 [All case studies](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
 
 
