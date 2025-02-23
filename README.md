@@ -1,15 +1,35 @@
-# AZ-305 Designing Microsoft Azure Infrastructure Solutions
+[LP1]: https://learn.microsoft.com/en-us/training/paths/design-identity-governance-monitor-solutions/
+[LP2]: https://learn.microsoft.com/en-us/training/paths/design-infranstructure-solutions/
+[LP3]: https://learn.microsoft.com/en-us/training/paths/design-data-storage-solutions/
+[LP4]: https://learn.microsoft.com/en-us/training/paths/design-business-continuity-solutions/
+[LP5]: https://learn.microsoft.com/en-us/training/paths/cloud-adoption-framework/
+[LP6]: https://learn.microsoft.com/en-us/training/paths/azure-well-architected-framework/
+
+<!--
+- Learning Path [Design identity, governance, and monitor solutions][LP1]
+- Learning Path [Design infrastructure solutions][LP2]
+- Learning Path [Design data storage solutions][LP3]
+- Learning Path [Design business continuity solutions][LP4]
+- Learning Path [Accelerate cloud adoption with the Microsoft Cloud Adoption Framework for Azure][LP5]
+- Learning Path [Build great solutions with the Microsoft Azure Well-Architected Framework][LP6]
+-->
 
 
-## Seminar 19.08.2024
+<!--
+## Seminar 24. - 27. Februar 2025
 
+[Give feedback]()
 
-[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?9BD583B9E213266093)
-
-[Grab your badge (Microsoft Learn)](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=KQ6YMR)
-
+[Grab your badge (Microsoft Learn)]()
 
 <br>
+-->
+
+# AZ-305 Designing Microsoft Azure Infrastructure Solutions
+
+## Learning Paths
+
+[AZ-305 on Microsoft Learn](https://aka.ms/AZ-305StudentMaterials)
 
 <br>
 
@@ -18,61 +38,70 @@
 
 | Module  | Classroom Whiteboard | Official Solution | Presentation |
 | :-------| :--------------------| :-----------------| :------------|
-| 00 Intro                                     | No case study     | No case study   | [Presentation 00](https://github.com/www42/AZ-305/blob/9fb1a940fc3cedd8940352eb0743d3a05405cd05/Presentations/AZ-305_00.pdf) |
-| 01 Governance solutions                      | [Whiteboard 01](https://github.com/www42/AZ-305/blob/34dc02583d7ffe1838f87fcb14be60ddce0db7ea/Whiteboards/AZ-305%20Case%201.png) | [Solution 01](https://github.com/www42/AZ-305/blob/34dc02583d7ffe1838f87fcb14be60ddce0db7ea/Solutions/AZ-305-Solution-01.pdf) | [Presentation 01](https://github.com/www42/AZ-305/blob/34dc02583d7ffe1838f87fcb14be60ddce0db7ea/Presentations/AZ-305_01.pdf) |
-| 02 Compute solutions                         | [Whiteboard 02](https://github.com/www42/AZ-305/blob/a161fcf135cb3173573b51859747b71c97feedb6/Whiteboards/AZ-305%20Case%202.png) | [Solution 02](https://github.com/www42/AZ-305/blob/de9f6cc1df7630a98b4a86ff1cb0b5937d96c474/Solutions/AZ-305-Solution-02.pdf) | [Presentation 02](https://github.com/www42/AZ-305/blob/a161fcf135cb3173573b51859747b71c97feedb6/Presentations/AZ-305_02.pdf) |
-| 03 Non-relational storage solution           | [Whiteboard 03](https://github.com/www42/AZ-305/blob/de9f6cc1df7630a98b4a86ff1cb0b5937d96c474/Whiteboards/AZ-305%20Case%203.png) | [Solution 03](https://github.com/www42/AZ-305/blob/de9f6cc1df7630a98b4a86ff1cb0b5937d96c474/Solutions/AZ-305-Solution-03.pdf) | [Presentation 03](https://github.com/www42/AZ-305/blob/de9f6cc1df7630a98b4a86ff1cb0b5937d96c474/Presentations/AZ-305_03.pdf) |
-| 04 Relational storage solution               | [Whiteboard 04](https://github.com/www42/AZ-305/blob/d14c35d9f4584cc2b3c1204db172a032350ecd3b/Whiteboards/AZ-305%20Case%204.png) | [Solution 04](https://github.com/www42/AZ-305/blob/d14c35d9f4584cc2b3c1204db172a032350ecd3b/Solutions/AZ-305-Solution-04.pdf) | [Presentation 04](https://github.com/www42/AZ-305/blob/d14c35d9f4584cc2b3c1204db172a032350ecd3b/Presentations/AZ-305_04.pdf) |
-| 05 Data integration solutions                | No case study     | No case study   | [Presentation 05](https://github.com/www42/AZ-305/blob/d14c35d9f4584cc2b3c1204db172a032350ecd3b/Presentations/AZ-305_05.pdf) |
-| 06 App architecture solutions                | [Whiteboard 06](https://github.com/www42/AZ-305/blob/d896662ad25ba6905afc6d51af5d334ce7058304/Whiteboards/AZ-305%20Case%206.png) | [Solution 06](https://github.com/www42/AZ-305/blob/d896662ad25ba6905afc6d51af5d334ce7058304/Solutions/AZ-305-Solution-06.pdf) | [Presentation 06](https://github.com/www42/AZ-305/blob/d896662ad25ba6905afc6d51af5d334ce7058304/Presentations/AZ-305_06.pdf) |
-| 07 Authentication and authorization solutions| [Whiteboard 07](https://github.com/www42/AZ-305/blob/d379380e92c76c425cefb6ad4c1eb4e19530ccfe/Whiteboards/AZ-305%20Case%207.png) | [Solution 07](https://github.com/www42/AZ-305/blob/d379380e92c76c425cefb6ad4c1eb4e19530ccfe/Solutions/AZ-305-Solution-07.pdf) | [Presentation 07](https://github.com/www42/AZ-305/blob/d379380e92c76c425cefb6ad4c1eb4e19530ccfe/Presentations/AZ-305_07.pdf) |
-| 08 Logging and monitoring solutions          | [Whiteboard 08](https://github.com/www42/AZ-305/blob/7f0024bb983a5d9daae8829582c63be0ff51c800/Whiteboards/AZ-305%20Case%208.png) | [Solution 08](https://github.com/www42/AZ-305/blob/7f0024bb983a5d9daae8829582c63be0ff51c800/Solutions/AZ-305-Solution-08.pdf) | [Presentation 08](https://github.com/www42/AZ-305/blob/2bc712c653092bbd87bb86283d1d4893522a8206/Presentations/AZ-305_08.pdf) |
-| 09 Network infrastructure  solutions         |  | [Solution 09](https://github.com/www42/AZ-305/blob/7f0024bb983a5d9daae8829582c63be0ff51c800/Solutions/AZ-305-Solution-09.pdf) | [Presentation 09](https://github.com/www42/AZ-305/blob/2bc712c653092bbd87bb86283d1d4893522a8206/Presentations/AZ-305_09.pdf) |
-| 10 Business continuity solutions             | No case study     | No case study   | [Presentation 10](https://github.com/www42/AZ-305/blob/2bc712c653092bbd87bb86283d1d4893522a8206/Presentations/AZ-305_10.pdf) |
-| 11 Migration solutions                       | No case study     | No case study   | [Presentation 11](https://github.com/www42/AZ-305/blob/7f0024bb983a5d9daae8829582c63be0ff51c800/Presentations/AZ-305_11.pdf) |
+| 00 Intro                                     | No case study     | No case study   |  |
+| 01 Governance solutions                      |                   |                 |  |
+| 02 Compute solutions                         |                   |                 |  |
+| 03 Non-relational storage solution           |                   |                 |  |
+| 04 Relational storage solution               |                   |                 |  |
+| 05 Data integration solutions                | No case study     | No case study   |  |
+| 06 App architecture solutions                |                   |                 |  |
+| 07 Authentication and authorization solutions|                   |                 |  |
+| 08 Logging and monitoring solutions          |                   |                 |  |
+| 09 Network infrastructure  solutions         |                   |                 |  |
+| 10 Business continuity solutions             | No case study     | No case study   |  |
+| 11 Migration solutions                       | No case study     | No case study   |  |
 
 <br>
 
-<br>
+## Labs
+
+[Lab environment Skillable](https://brainymotion.learnondemand.net) 
+
+1. Sign in with your Skillable account 
+2. Register with Training Key
 
 <br>
-
-## Learning Paths
-
-[AZ-305 on Microsoft Learn](https://aka.ms/AZ-305StudentMaterials)
-
-[Microsoft Train Cert Poster](https://aka.ms/TrainCertPoster)
-
-
 
 ## Certification
 
-[Solutions Architect Certification](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
+|   |   |
+| - | - |
+| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-expert-badge.svg" width="100"/> | [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-305/) |
+
+
+[Practice Assessment](https://learn.microsoft.com/credentials/certifications/exams/az-305/practice/assessment?assessment-type=practice&assessmentId=15)
+
+
+<br>
+
+## New: Microsoft Applied Skills
+
+[Applied Skills - What's that?](https://learn.microsoft.com/en-us/credentials/)
+
+[Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
+
+
+<br>
+
+
+## Microsoft Learn
+
+[Become Microsoft Certified](https://aka.ms/traincertposter) aka Train Cert Poster
+
+[Microsoft Learn](https://learn.microsoft.com)
+
+[Browse all courses, learning paths, and modules](https://learn.microsoft.com/en-us/training/browse/)
+
+[AI Skills Navigator](https://aiskillsnavigator.microsoft.com/en-us)
+
+<br>
 
 
 
-## New: Applied Skills
 
-[Announcing Applied Skills](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/announcing-microsoft-applied-skills-the-new-credentials-to/ba-p/3775645)
-
-[Applied Skills vs Certification](https://aka.ms/ChooseYourMicrosoftCredential)
-
-Applied Skill [Configure secure access to your workloads using Azure networking](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-secure-workloads-use-azure-virtual-networking/)
-
-Applied Skill [Secure storage for Azure Files and Azure Blob Storage](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/)
-
-[Browse Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
-
-
-
-
-### Mandatory multi-factor authentication for Azure sign-in
+## Useful links
 
 [Announcing mandatory multi-factor authentication for Azure sign-in](https://azure.microsoft.com/en-us/blog/announcing-mandatory-multi-factor-authentication-for-azure-sign-in/)
-
-
-
-## More useful links
 
 [Data analysis with Kusto Query Language](https://learn.microsoft.com/en-us/training/paths/kusto-query-language/)
 
@@ -110,11 +139,6 @@ Applied Skill [Secure storage for Azure Files and Azure Blob Storage](https://le
 
 [Bicep Playground](https://bicepdemo.z22.web.core.windows.net/)
 
-
-
-
-
-
 [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 
 [Azure Charts](https://https://azurecharts.com/)
@@ -133,19 +157,25 @@ Applied Skill [Secure storage for Azure Files and Azure Blob Storage](https://le
 ##  Your Trainer
 #### Thomas Jäkel
 
-<img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="200"/>
-<a href="https://www.credly.com/badges/466d883d-ecb7-4d26-902e-a97ea1492e4d/public_url"><img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-trainer-2023-2024.png" width="130"/></a>
-<a href="https://www.credly.com/badges/fc4737d8-923a-4d37-8f1a-497c08a7c1ff/public_url"><img src="https://download69118.blob.core.windows.net/anon/AAI-badge.png" width="150"/></a>
+<img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="150">
+<img src="https://download69118.blob.core.windows.net/anon/Standard MCT Badge Large.png" width=100>
+<a href="https://www.credly.com/badges/72439d56-7895-4b92-84bd-fec12c84fd18/public_url"><img src="https://download69118.blob.core.windows.net/anon/mcse-cloud-platform-and-infrastructure-certified-2016.png" width="100"></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/A8E4CC3EAA93F4C2?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-azure-solutions-architect-expert.png" width=100></a>
+<a href="https://https://www.credly.com/badges/8ef5f8fb-6b84-4223-add8-4938096c67b2"><img src="https://download69118.blob.core.windows.net/anon/aws-certified-solutions-architect-associate.png" width=100></a>
+<a href="https://www.credly.com/badges/7f2c6c3e-d3e3-4e32-9299-adf3278948a3/public_url"><img src="https://download69118.blob.core.windows.net/anon/instructor-recognition-1-000-students-reached.png" width="100"/></a>
 
-[My certifications](https://www.credly.com/users/thomas-jakel)
+[My Microsoft certifications](https://learn.microsoft.com/en-us/users/tjaekel/transcript/d4yjrcx32nome0r)
 
-[Email me](mailto:thomas.jaekel@brainymotion.de?subject=AZ-305)
+[My Non Microsoft certifications](https://www.credly.com/users/thomas-jakel)
+
+[Email me](mailto:thomas.jaekel@brainymotion.de)
 
 [Check out my GitHub repos](https://github.com/www42)
 
 [Find me on LinkedIn](https://linkedin.com/in/tjkkll)
 
 [Follow me on Twitter](https://twitter.com/tjkkll)
+
 
 ---
 
