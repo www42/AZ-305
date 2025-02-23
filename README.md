@@ -31,7 +31,8 @@
 
 [AZ-305 on Microsoft Learn](https://aka.ms/AZ-305StudentMaterials)
 
-<br>
+
+## Case Studies
 
 [All case studies](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
 
