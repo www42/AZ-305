@@ -36,22 +36,27 @@
 
 [All case studies](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
 
-[P00]: https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Presentations/AZ-305_00.pdf
 
-| Module  | Classroom Whiteboard | Official Solution | Presentation |
-| :-------| :--------------------| :-----------------| :------------|
-| 00 Intro                                     | No case study     | No case study   | [Presentation 00][P00] |
-| 01 Governance solutions                      | [Whiteboard 01](https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Whiteboards/AZ-305%20Case%201.png) | [Solution 01](https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Solutions/AZ-305-Solution-01.pdf) | [Presentation 01](https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Presentations/AZ-305_01.pdf) |
-| 02 Compute solutions                         |                   |                 |  |
-| 03 Non-relational storage solution           |                   |                 |  |
-| 04 Relational storage solution               |                   |                 |  |
-| 05 Data integration solutions                | No case study     | No case study   |  |
-| 06 App architecture solutions                |                   |                 |  |
-| 07 Authentication and authorization solutions|                   |                 |  |
-| 08 Logging and monitoring solutions          |                   |                 |  |
-| 09 Network infrastructure  solutions         |                   |                 |  |
-| 10 Business continuity solutions             | No case study     | No case study   |  |
-| 11 Migration solutions                       | No case study     | No case study   |  |
+| Module                                       | Classroom Whiteboard | Official Solution  | Presentation           |
+| :------------------------------------------- | :--------------------| :------------------| :----------------------|
+| 00 Intro                                     | No case study        | No case study      | [Presentation 00][P00] |
+| 01 Governance solutions                      | [Whiteboard 01][W01] | [Solution 01][S01] | [Presentation 01][P01] |
+| 02 Compute solutions                         |                      |                    |                        |
+| 03 Non-relational storage solution           |                      |                    |                        |
+| 04 Relational storage solution               |                      |                    |                        |
+| 05 Data integration solutions                | No case study        | No case study      |                        |
+| 06 App architecture solutions                |                      |                    |                        |
+| 07 Authentication and authorization solutions|                      |                    |                        |
+| 08 Logging and monitoring solutions          |                      |                    |                        |
+| 09 Network infrastructure  solutions         |                      |                    |                        |
+| 10 Business continuity solutions             | No case study        | No case study      |                        |
+| 11 Migration solutions                       | No case study        | No case study      |                        |
+
+
+[P00]: https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Presentations/AZ-305_00.pdf
+[P01]: https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Presentations/AZ-305_01.pdf
+[W01]: https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Whiteboards/AZ-305%20Case%201.png
+[S01]: https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Solutions/AZ-305-Solution-01.pdf
 
 <br>
 
