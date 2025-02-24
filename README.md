@@ -36,7 +36,7 @@
 
 [All case studies](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
 
-[P00]: (https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Presentations/AZ-305_00.pdf
+[P00]: https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Presentations/AZ-305_00.pdf
 
 | Module  | Classroom Whiteboard | Official Solution | Presentation |
 | :-------| :--------------------| :-----------------| :------------|
