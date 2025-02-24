@@ -41,7 +41,7 @@
 | :------------------------------------------- | :--------------------| :------------------| :----------------------|
 | 00 Intro                                     | No case study        | No case study      | [Presentation 00][P00] |
 | 01 Governance solutions                      | [Whiteboard 01][W01] | [Solution 01][S01] | [Presentation 01][P01] |
-| 02 Compute solutions                         |                      |                    |                        |
+| 02 Compute solutions                         | [Whiteboard 02][W02] | [Solution 02][S02] | [Presentation 02][P02] |
 | 03 Non-relational storage solution           |                      |                    |                        |
 | 04 Relational storage solution               |                      |                    |                        |
 | 05 Data integration solutions                | No case study        | No case study      |                        |
@@ -54,12 +54,44 @@
 
 
 [P00]: https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Presentations/AZ-305_00.pdf
+
 [P01]: https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Presentations/AZ-305_01.pdf
-[W01]: https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Whiteboards/AZ-305%20Case%201.png
 [S01]: https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Solutions/AZ-305-Solution-01.pdf
-[P02]: 
-[W02]: 
-[S02]: 
+[W01]: https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Whiteboards/AZ-305%20Case%201.png
+
+[P02]: https://github.com/www42/AZ-305/blob/c7a164fba8f96282555062668b261993bef7a494/Presentations/AZ-305_02.pdf
+[S02]: https://github.com/www42/AZ-305/blob/c7a164fba8f96282555062668b261993bef7a494/Solutions/AZ-305-Solution-02.pdf
+[W02]: https://github.com/www42/AZ-305/blob/c7a164fba8f96282555062668b261993bef7a494/Whiteboards/AZ-305%20Case%202.png
+
+[P03]: 
+[S03]: 
+[W03]: 
+
+[P04]: https://
+[S04]: https://
+[W04]: https://
+
+[P05]: https://
+
+[P06]: https://
+[S06]: https://
+[W06]: https://
+
+[P07]: https://
+[S07]: https://
+[W07]: https://
+
+[P08]: https://
+[S08]: https://
+[W08]: https://
+
+[P09]: https://
+[S09]: https://
+[W09]: https://
+
+[P10]: https://
+
+[P11]: https://
 
 
 <br>
