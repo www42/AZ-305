@@ -36,11 +36,12 @@
 
 [All case studies](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
 
+[P00]: (https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Presentations/AZ-305_00.pdf
 
 | Module  | Classroom Whiteboard | Official Solution | Presentation |
 | :-------| :--------------------| :-----------------| :------------|
-| 00 Intro                                     | No case study     | No case study   |  |
-| 01 Governance solutions                      |                   |                 |  |
+| 00 Intro                                     | No case study     | No case study   | [Presentation 00][P00] |
+| 01 Governance solutions                      | [Whiteboard 01](https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Whiteboards/AZ-305%20Case%201.png) | [Solution 01](https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Solutions/AZ-305-Solution-01.pdf) | [Presentation 01](https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Presentations/AZ-305_01.pdf) |
 | 02 Compute solutions                         |                   |                 |  |
 | 03 Non-relational storage solution           |                   |                 |  |
 | 04 Relational storage solution               |                   |                 |  |
@@ -101,6 +102,8 @@
 
 
 ## Useful links
+
+[Elevate access to manage all Azure subscriptions and management groups](https://learn.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin?tabs=rest-api%2Centra-audit-logs)
 
 [Announcing mandatory multi-factor authentication for Azure sign-in](https://azure.microsoft.com/en-us/blog/announcing-mandatory-multi-factor-authentication-for-azure-sign-in/)
 
