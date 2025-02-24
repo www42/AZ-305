@@ -63,13 +63,13 @@
 [S02]: https://github.com/www42/AZ-305/blob/c7a164fba8f96282555062668b261993bef7a494/Solutions/AZ-305-Solution-02.pdf
 [W02]: https://github.com/www42/AZ-305/blob/c7a164fba8f96282555062668b261993bef7a494/Whiteboards/AZ-305%20Case%202.png
 
-[P03]: 
-[S03]: 
-[W03]: 
+[P03]: https://
+[S03]: https://
+[W03]: https://
 
-[P04]: 
-[S04]: 
-[W04]: 
+[P04]: https://
+[S04]: https://
+[W04]: https://
 
 [P05]: https://
 
