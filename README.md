@@ -44,7 +44,7 @@
 | 02 Compute solutions                         | [Whiteboard 02][W02] | [Solution 02][S02] | [Presentation 02][P02] |
 | 03 Non-relational storage solution           | [Whiteboard 03][W03] | [Solution 03][S03] | [Presentation 03][P03] |
 | 04 Relational storage solution               | [Whiteboard 04][W04] | [Solution 04][S04] | [Presentation 04][P04] |
-| 05 Data integration solutions                | No case study        | No case study      |                        |
+| 05 Data integration solutions                | No case study        | No case study      | [Presentation 05][P05] |
 | 06 App architecture solutions                |                      |                    |                        |
 | 07 Authentication and authorization solutions|                      |                    |                        |
 | 08 Logging and monitoring solutions          |                      |                    |                        |
