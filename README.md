@@ -144,6 +144,8 @@
 
 ## Useful links
 
+[Azure Policy documentation](https://learn.microsoft.com/en-us/azure/governance/policy/)
+
 [Elevate access to manage all Azure subscriptions and management groups](https://learn.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin?tabs=rest-api%2Centra-audit-logs)
 
 [Announcing mandatory multi-factor authentication for Azure sign-in](https://azure.microsoft.com/en-us/blog/announcing-mandatory-multi-factor-authentication-for-azure-sign-in/)
