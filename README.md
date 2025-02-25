@@ -71,7 +71,7 @@
 [S04]: https://github.com/www42/AZ-305/blob/72eeeb4833b8d72446c000744e900fb67b30b87a/Solutions/AZ-305-Solution-04.pdf
 [W04]: https://github.com/www42/AZ-305/blob/72eeeb4833b8d72446c000744e900fb67b30b87a/Whiteboards/AZ-305%20Case%204.png
 
-[P05]: https://
+[P05]: https://github.com/www42/AZ-305/blob/45856386228501c5f503707a2a98e7eaedc7bea2/Presentations/AZ-305_05.pdf
 
 [P06]: https://
 [S06]: https://
