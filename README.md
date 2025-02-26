@@ -184,7 +184,7 @@
 
 [Azure Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
 
-[Bicep Playground](https://bicepdemo.z22.web.core.windows.net/)
+[Bicep Playground](https://azure.github.io/bicep/)
 
 [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 
