@@ -77,11 +77,11 @@
 [S06]: https://github.com/www42/AZ-305/blob/bc9a56af2f90d488ada2ec34a2954faf222a6bc2/Solutions/AZ-305-Solution-06.pdf
 [W06]: https://github.com/www42/AZ-305/blob/bc9a56af2f90d488ada2ec34a2954faf222a6bc2/Whiteboards/AZ-305%20Case%206.png
 
-[P07]: https://
-[S07]: https://
-[W07]: https://
+[P07]: https://github.com/www42/AZ-305/blob/1d6e2ad46e12725655184c397dedce13de03147f/Presentations/AZ-305_07.pdf
+[S07]: https://github.com/www42/AZ-305/blob/1d6e2ad46e12725655184c397dedce13de03147f/Solutions/AZ-305-Solution-07.pdf
+[W07]: https://github.com/www42/AZ-305/blob/1d6e2ad46e12725655184c397dedce13de03147f/Whiteboards/AZ-305%20Case%207.png
 
-[P08]: https://
+[P08]: https://github.com/www42/AZ-305/blob/1d6e2ad46e12725655184c397dedce13de03147f/Presentations/AZ-305_08.pdf
 [S08]: https://
 [W08]: https://
 
