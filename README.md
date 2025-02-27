@@ -48,7 +48,7 @@
 | 08 Logging and monitoring solutions          |                      |                    | [Presentation 08][P08] |
 | 09 Network infrastructure  solutions         | [Whiteboard 09][W09] | [Solution 09][S09] | [Presentation 09][P09] |
 | 10 Business continuity solutions             | No case study        | No case study      | [Presentation 10][P10] |
-| 11 Migration solutions                       | No case study        | No case study      |                        |
+| 11 Migration solutions                       | No case study        | No case study      | [Presentation 11][P11] |
 
 
 [P00]: https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Presentations/AZ-305_00.pdf
@@ -89,7 +89,7 @@
 
 [P10]: https://github.com/www42/AZ-305/blob/648a7fb276c79361ff2eea21fc4e924e9f1aaec6/Presentations/AZ-305_10.pdf
 
-[P11]: https://
+[P11]: https://github.com/www42/AZ-305/blob/9f25535ee270b97551031636123e10511638a975/Presentations/AZ-305_11.pdf
 
 
 <br>
