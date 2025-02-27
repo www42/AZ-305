@@ -15,15 +15,13 @@
 -->
 
 
-<!--
 ## Seminar 24. - 27. Februar 2025
 
-[Give feedback]()
+[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?59FA89FA8219700159)
 
-[Grab your badge (Microsoft Learn)]()
+[Grab your badge (Microsoft Learn)](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=MR7GNZ)
 
 <br>
--->
 
 # AZ-305 Designing Microsoft Azure Infrastructure Solutions
 
@@ -48,8 +46,8 @@
 | 06 App architecture solutions                | [Whiteboard 06][W06] | [Solution 06][S06] | [Presentation 06][P06] |
 | 07 Authentication and authorization solutions| [Whiteboard 07][W07] | [Solution 07][S07] | [Presentation 07][P07] |
 | 08 Logging and monitoring solutions          |                      |                    | [Presentation 08][P08] |
-| 09 Network infrastructure  solutions         |                      |                    |                        |
-| 10 Business continuity solutions             | No case study        | No case study      |                        |
+| 09 Network infrastructure  solutions         | [Whiteboard 09][W09] | [Solution 09][S09] | [Presentation 09][P09] |
+| 10 Business continuity solutions             | No case study        | No case study      | [Presentation 10][P10] |
 | 11 Migration solutions                       | No case study        | No case study      |                        |
 
 
@@ -85,11 +83,11 @@
 [S08]: https://
 [W08]: https://
 
-[P09]: https://
-[S09]: https://
-[W09]: https://
+[P09]: https://github.com/www42/AZ-305/blob/648a7fb276c79361ff2eea21fc4e924e9f1aaec6/Presentations/AZ-305_09.pdf
+[S09]: https://github.com/www42/AZ-305/blob/648a7fb276c79361ff2eea21fc4e924e9f1aaec6/Solutions/AZ-305-Solution-09.pdf
+[W09]: https://github.com/www42/AZ-305/blob/648a7fb276c79361ff2eea21fc4e924e9f1aaec6/Whiteboards/AZ-305%20Case%209.png
 
-[P10]: https://
+[P10]: https://github.com/www42/AZ-305/blob/648a7fb276c79361ff2eea21fc4e924e9f1aaec6/Presentations/AZ-305_10.pdf
 
 [P11]: https://
 
