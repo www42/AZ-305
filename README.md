@@ -15,6 +15,7 @@
 -->
 
 
+<!--
 ## Seminar 24. - 27. Februar 2025
 
 [Give feedback](https://www.metricsthatmatter.com/url/u.aspx?59FA89FA8219700159)
@@ -22,6 +23,7 @@
 [Grab your badge (Microsoft Learn)](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=MR7GNZ)
 
 <br>
+-->
 
 # AZ-305 Designing Microsoft Azure Infrastructure Solutions
 
@@ -37,59 +39,19 @@
 
 | Module                                       | Classroom Whiteboard | Official Solution  | Presentation           |
 | :------------------------------------------- | :--------------------| :------------------| :----------------------|
-| 00 Intro                                     | No case study        | No case study      | [Presentation 00][P00] |
-| 01 Governance solutions                      | [Whiteboard 01][W01] | [Solution 01][S01] | [Presentation 01][P01] |
-| 02 Compute solutions                         | [Whiteboard 02][W02] | [Solution 02][S02] | [Presentation 02][P02] |
-| 03 Non-relational storage solution           | [Whiteboard 03][W03] | [Solution 03][S03] | [Presentation 03][P03] |
-| 04 Relational storage solution               | [Whiteboard 04][W04] | [Solution 04][S04] | [Presentation 04][P04] |
-| 05 Data integration solutions                | No case study        | No case study      | [Presentation 05][P05] |
-| 06 App architecture solutions                | [Whiteboard 06][W06] | [Solution 06][S06] | [Presentation 06][P06] |
-| 07 Authentication and authorization solutions| [Whiteboard 07][W07] | [Solution 07][S07] | [Presentation 07][P07] |
-| 08 Logging and monitoring solutions          |                      |                    | [Presentation 08][P08] |
-| 09 Network infrastructure  solutions         | [Whiteboard 09][W09] | [Solution 09][S09] | [Presentation 09][P09] |
-| 10 Business continuity solutions             | No case study        | No case study      | [Presentation 10][P10] |
-| 11 Migration solutions                       | No case study        | No case study      | [Presentation 11][P11] |
+| 00 Intro                                     | No case study        | No case study      |                        |
+| 01 Governance solutions                      |                      |                    |                        |
+| 02 Compute solutions                         |                      |                    |                        |
+| 03 Non-relational storage solution           |                      |                    |                        |
+| 04 Relational storage solution               |                      |                    |                        |
+| 05 Data integration solutions                | No case study        | No case study      |                        |
+| 06 App architecture solutions                |                      |                    |                        |
+| 07 Authentication and authorization solutions|                      |                    |                        |
+| 08 Logging and monitoring solutions          |                      |                    |                        |
+| 09 Network infrastructure  solutions         |                      |                    |                        |
+| 10 Business continuity solutions             | No case study        | No case study      |                        |
+| 11 Migration solutions                       | No case study        | No case study      |                        |
 
-
-[P00]: https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Presentations/AZ-305_00.pdf
-
-[P01]: https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Presentations/AZ-305_01.pdf
-[S01]: https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Solutions/AZ-305-Solution-01.pdf
-[W01]: https://github.com/www42/AZ-305/blob/744742feb618606403784064993c9f76fb2f3643/Whiteboards/AZ-305%20Case%201.png
-
-[P02]: https://github.com/www42/AZ-305/blob/c7a164fba8f96282555062668b261993bef7a494/Presentations/AZ-305_02.pdf
-[S02]: https://github.com/www42/AZ-305/blob/c7a164fba8f96282555062668b261993bef7a494/Solutions/AZ-305-Solution-02.pdf
-[W02]: https://github.com/www42/AZ-305/blob/c7a164fba8f96282555062668b261993bef7a494/Whiteboards/AZ-305%20Case%202.png
-
-[P03]: https://github.com/www42/AZ-305/blob/72eeeb4833b8d72446c000744e900fb67b30b87a/Presentations/AZ-305_03.pdf
-[S03]: https://github.com/www42/AZ-305/blob/72eeeb4833b8d72446c000744e900fb67b30b87a/Solutions/AZ-305-Solution-03.pdf
-[W03]: https://github.com/www42/AZ-305/blob/72eeeb4833b8d72446c000744e900fb67b30b87a/Whiteboards/AZ-305%20Case%203.png
-
-[P04]: https://github.com/www42/AZ-305/blob/72eeeb4833b8d72446c000744e900fb67b30b87a/Presentations/AZ-305_04.pdf
-[S04]: https://github.com/www42/AZ-305/blob/72eeeb4833b8d72446c000744e900fb67b30b87a/Solutions/AZ-305-Solution-04.pdf
-[W04]: https://github.com/www42/AZ-305/blob/72eeeb4833b8d72446c000744e900fb67b30b87a/Whiteboards/AZ-305%20Case%204.png
-
-[P05]: https://github.com/www42/AZ-305/blob/45856386228501c5f503707a2a98e7eaedc7bea2/Presentations/AZ-305_05.pdf
-
-[P06]: https://github.com/www42/AZ-305/blob/bc9a56af2f90d488ada2ec34a2954faf222a6bc2/Presentations/AZ-305_06.pdf
-[S06]: https://github.com/www42/AZ-305/blob/bc9a56af2f90d488ada2ec34a2954faf222a6bc2/Solutions/AZ-305-Solution-06.pdf
-[W06]: https://github.com/www42/AZ-305/blob/bc9a56af2f90d488ada2ec34a2954faf222a6bc2/Whiteboards/AZ-305%20Case%206.png
-
-[P07]: https://github.com/www42/AZ-305/blob/1d6e2ad46e12725655184c397dedce13de03147f/Presentations/AZ-305_07.pdf
-[S07]: https://github.com/www42/AZ-305/blob/1d6e2ad46e12725655184c397dedce13de03147f/Solutions/AZ-305-Solution-07.pdf
-[W07]: https://github.com/www42/AZ-305/blob/1d6e2ad46e12725655184c397dedce13de03147f/Whiteboards/AZ-305%20Case%207.png
-
-[P08]: https://github.com/www42/AZ-305/blob/1d6e2ad46e12725655184c397dedce13de03147f/Presentations/AZ-305_08.pdf
-[S08]: https://
-[W08]: https://
-
-[P09]: https://github.com/www42/AZ-305/blob/648a7fb276c79361ff2eea21fc4e924e9f1aaec6/Presentations/AZ-305_09.pdf
-[S09]: https://github.com/www42/AZ-305/blob/648a7fb276c79361ff2eea21fc4e924e9f1aaec6/Solutions/AZ-305-Solution-09.pdf
-[W09]: https://github.com/www42/AZ-305/blob/648a7fb276c79361ff2eea21fc4e924e9f1aaec6/Whiteboards/AZ-305%20Case%209.png
-
-[P10]: https://github.com/www42/AZ-305/blob/648a7fb276c79361ff2eea21fc4e924e9f1aaec6/Presentations/AZ-305_10.pdf
-
-[P11]: https://github.com/www42/AZ-305/blob/9f25535ee270b97551031636123e10511638a975/Presentations/AZ-305_11.pdf
 
 
 <br>
@@ -202,12 +164,17 @@
 ##  Your Trainer
 #### Thomas Jäkel
 
-<img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="150">
-<img src="https://download69118.blob.core.windows.net/anon/Standard MCT Badge Large.png" width=100>
+<img src="https://download69118.blob.core.windows.net/anon/Profilbild.jpg" width="150"><img src="https://download69118.blob.core.windows.net/anon/Standard MCT Badge Large.png" width=100>
 <a href="https://www.credly.com/badges/72439d56-7895-4b92-84bd-fec12c84fd18/public_url"><img src="https://download69118.blob.core.windows.net/anon/mcse-cloud-platform-and-infrastructure-certified-2016.png" width="100"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/A8E4CC3EAA93F4C2?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-azure-solutions-architect-expert.png" width=100></a>
-<a href="https://https://www.credly.com/badges/8ef5f8fb-6b84-4223-add8-4938096c67b2"><img src="https://download69118.blob.core.windows.net/anon/aws-certified-solutions-architect-associate.png" width=100></a>
+<a href="https://www.credly.com/badges/2a1b8f81-8609-4e8f-85d7-dad4f21f84f6/public_url"><img src="https://download69118.blob.core.windows.net/anon/aws-certified-ai-practitioner.png" width=100></a>
 <a href="https://www.credly.com/badges/7f2c6c3e-d3e3-4e32-9299-adf3278948a3/public_url"><img src="https://download69118.blob.core.windows.net/anon/instructor-recognition-1-000-students-reached.png" width="100"/></a>
+
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/C27BF4B9C4441987?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/apl.png" width=60></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/D285AC578545317A?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/apl.png" width=60></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/218CE025B3002579?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/apl.png" width=60></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/603D525F71C003A5?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/apl.png" width=60></a>
+
 
 [My Microsoft certifications](https://learn.microsoft.com/en-us/users/tjaekel/transcript/d4yjrcx32nome0r)
 
