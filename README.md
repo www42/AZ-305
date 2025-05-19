@@ -15,8 +15,11 @@
 -->
 
 
+## Seminar 19. - 22. Mai 2025
+
+[Presentation](pdf/)
+
 <!--
-## Seminar 24. - 27. Februar 2025
 
 [Give feedback](https://www.metricsthatmatter.com/url/u.aspx?59FA89FA8219700159)
 
