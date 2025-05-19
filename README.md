@@ -107,6 +107,8 @@
 
 ## Useful links
 
+[Microsoft Entra External ID documentation](https://learn.microsoft.com/en-us/entra/external-id/)
+
 [Azure Policy documentation](https://learn.microsoft.com/en-us/azure/governance/policy/)
 
 [Elevate access to manage all Azure subscriptions and management groups](https://learn.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin?tabs=rest-api%2Centra-audit-logs)
