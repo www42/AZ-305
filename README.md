@@ -44,7 +44,7 @@
 | :------------------------------------------- | :--------------------| :------------------| :----------------------|
 | 00 Intro                                     | No case study        | No case study      | [Presentation 00][P00] |
 | 01 Governance solutions                      | [Whiteboard 01][W01] | [Solution 01][S01] | [Presentation 01][P01] |
-| 02 Compute solutions                         |                      |                    |                        |
+| 02 Compute solutions                         | [Whiteboard 02][W02] | [Solution 02][S02] | [Presentation 02][P02] |
 | 03 Non-relational storage solution           |                      |                    |                        |
 | 04 Relational storage solution               |                      |                    |                        |
 | 05 Data integration solutions                | No case study        | No case study      |                        |
