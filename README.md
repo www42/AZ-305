@@ -45,8 +45,8 @@
 | 00 Intro                                     | No case study        | No case study      | [Presentation 00][P00] |
 | 01 Governance solutions                      | [Whiteboard 01][W01] | [Solution 01][S01] | [Presentation 01][P01] |
 | 02 Compute solutions                         | [Whiteboard 02][W02] | [Solution 02][S02] | [Presentation 02][P02] |
-| 03 Non-relational storage solution           |                      |                    |                        |
-| 04 Relational storage solution               |                      |                    |                        |
+| 03 Non-relational storage solution           |                      |                    | [Presentation 03][P03] |
+| 04 Relational storage solution               |                      |                    | [Presentation 04][P04] |
 | 05 Data integration solutions                | No case study        | No case study      |                        |
 | 06 App architecture solutions                |                      |                    |                        |
 | 07 Authentication and authorization solutions|                      |                    |                        |
@@ -65,6 +65,9 @@
 [S02]: https://github.com/www42/AZ-305/blob/bead59a6f71da3999a26f6789f1c9627e0bde443/Solutions/AZ-305-Solution-02.pdf
 [W02]: https://github.com/www42/AZ-305/blob/43ea003f7c16f6eb5bf4311d7a9ad6fa560e998a/Whiteboards/Whiteboard02.JPEG
 
+[P03]: https://github.com/www42/AZ-305/blob/f2aa11ffc404208d3351f3326abaa0788c05e6fa/pdf/AZ-305_03.pdf
+
+[P04]: https://github.com/www42/AZ-305/blob/f2aa11ffc404208d3351f3326abaa0788c05e6fa/pdf/AZ-305_04.pdf
 
 <br>
 
