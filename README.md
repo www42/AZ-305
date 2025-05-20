@@ -42,8 +42,8 @@
 
 | Module                                       | Classroom Whiteboard | Official Solution  | Presentation           |
 | :------------------------------------------- | :--------------------| :------------------| :----------------------|
-| 00 Intro                                     | No case study        | No case study      |                        |
-| 01 Governance solutions                      |                      |                    |                        |
+| 00 Intro                                     | No case study        | No case study      | [Presentation 00][P00] |
+| 01 Governance solutions                      | [Whiteboard 01][W01] | [Solution 01][S01] | [Presentation 01][P01] |
 | 02 Compute solutions                         |                      |                    |                        |
 | 03 Non-relational storage solution           |                      |                    |                        |
 | 04 Relational storage solution               |                      |                    |                        |
@@ -55,6 +55,15 @@
 | 10 Business continuity solutions             | No case study        | No case study      |                        |
 | 11 Migration solutions                       | No case study        | No case study      |                        |
 
+[P00]: https://github.com/www42/AZ-305/blob/8edd18be34ffce2e66cf35c22b16b257c737584c/pdf/AZ-305_00.pdf
+
+[P01]: https://github.com/www42/AZ-305/blob/8edd18be34ffce2e66cf35c22b16b257c737584c/pdf/AZ-305_01.pdf
+[S01]: https://github.com/www42/AZ-305/blob/bead59a6f71da3999a26f6789f1c9627e0bde443/Solutions/AZ-305-Solution-01.pdf
+[W01]: https://github.com/www42/AZ-305/blob/43ea003f7c16f6eb5bf4311d7a9ad6fa560e998a/Whiteboards/Whiteboard01.JPEG
+
+[P02]: https://github.com/www42/AZ-305/blob/8edd18be34ffce2e66cf35c22b16b257c737584c/pdf/AZ-305_02.pdf
+[S02]: https://github.com/www42/AZ-305/blob/bead59a6f71da3999a26f6789f1c9627e0bde443/Solutions/AZ-305-Solution-02.pdf
+[W02]: https://github.com/www42/AZ-305/blob/43ea003f7c16f6eb5bf4311d7a9ad6fa560e998a/Whiteboards/Whiteboard02.JPEG
 
 
 <br>
