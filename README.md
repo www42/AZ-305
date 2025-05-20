@@ -47,7 +47,7 @@
 | 02 Compute solutions                         | [Whiteboard 02][W02] | [Solution 02][S02] | [Presentation 02][P02] |
 | 03 Non-relational storage solution           |                      | [Solution 03][S03] | [Presentation 03][P03] |
 | 04 Relational storage solution               |                      |                    | [Presentation 04][P04] |
-| 05 Data integration solutions                | No case study        | No case study      |                        |
+| 05 Data integration solutions                | No case study        | No case study      | [Presentation 05][P05] |
 | 06 App architecture solutions                |                      |                    |                        |
 | 07 Authentication and authorization solutions|                      |                    |                        |
 | 08 Logging and monitoring solutions          |                      |                    |                        |
@@ -69,6 +69,8 @@
 [S03]: https://github.com/www42/AZ-305/blob/725c6bd208c991b63934cba25447b48565717e7f/Solutions/AZ-305-Solution-03.pdf
 
 [P04]: https://github.com/www42/AZ-305/blob/f2aa11ffc404208d3351f3326abaa0788c05e6fa/pdf/AZ-305_04.pdf
+
+[P05]: https://github.com/www42/AZ-305/blob/0aca3489ae958feacf4f927ef66a5105020f267a/pdf/AZ-305_05.pdf
 
 <br>
 
