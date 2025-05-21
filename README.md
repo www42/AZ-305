@@ -78,7 +78,7 @@
 
 [P06]: https://github.com/www42/AZ-305/blob/01c835ce6d3d15ab524c7c9a6297893caf62d904/pdf/AZ-305_06.pdf
 [S06]: https://github.com/www42/AZ-305/blob/01c835ce6d3d15ab524c7c9a6297893caf62d904/Solutions/AZ-305-Solution-06.pdf
-[W06]: https://
+[W06]: https://github.com/www42/AZ-305/blob/0b8a7c12798bc29e55d0072749b627a51faaca84/Whiteboards/Whiteboard06.jpg
 
 
 <br>
