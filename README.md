@@ -80,6 +80,12 @@
 [S06]: https://github.com/www42/AZ-305/blob/01c835ce6d3d15ab524c7c9a6297893caf62d904/Solutions/AZ-305-Solution-06.pdf
 [W06]: https://github.com/www42/AZ-305/blob/0b8a7c12798bc29e55d0072749b627a51faaca84/Whiteboards/Whiteboard06.jpg
 
+[P07]: https://github.com/www42/AZ-305/blob/7d0c8ae778799e0be807c8588b44dc18783a9494/pdf/AZ-305_07.pdf
+
+[P08]: https://github.com/www42/AZ-305/blob/7d0c8ae778799e0be807c8588b44dc18783a9494/pdf/AZ-305_08.pdf
+
+[P09]: https://github.com/www42/AZ-305/blob/7d0c8ae778799e0be807c8588b44dc18783a9494/pdf/AZ-305_09.pdf
+
 
 <br>
 
