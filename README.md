@@ -51,7 +51,7 @@
 | 06 App architecture solutions                | [Whiteboard 06][W06] | [Solution 06][S06] | [Presentation 06][P06] |
 | 07 Authentication and authorization solutions|                      | [Solution 07][S07] | [Presentation 07][P07] |
 | 08 Logging and monitoring solutions          |                      | [Solution 08][S08] | [Presentation 08][P08] |
-| 09 Network infrastructure  solutions         |                      |                     | [Presentation 09][P09] |
+| 09 Network infrastructure  solutions         | [Whiteboard 09][W09] | [Solution 09][S09] | [Presentation 09][P09] |
 | 10 Business continuity solutions             | No case study        | No case study      |                        |
 | 11 Migration solutions                       | No case study        | No case study      |                        |
 
