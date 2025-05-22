@@ -52,8 +52,8 @@
 | 07 Authentication and authorization solutions|                      | [Solution 07][S07] | [Presentation 07][P07] |
 | 08 Logging and monitoring solutions          |                      | [Solution 08][S08] | [Presentation 08][P08] |
 | 09 Network infrastructure  solutions         | [Whiteboard 09][W09] | [Solution 09][S09] | [Presentation 09][P09] |
-| 10 Business continuity solutions             | No case study        | No case study      |                        |
-| 11 Migration solutions                       | No case study        | No case study      |                        |
+| 10 Business continuity solutions             | No case study        | No case study      | [Presentation 10][P10] |
+| 11 Migration solutions                       | No case study        | No case study      | [Presentation 11][P11] |
 
 [P00]: https://github.com/www42/AZ-305/blob/8edd18be34ffce2e66cf35c22b16b257c737584c/pdf/AZ-305_00.pdf
 
@@ -87,6 +87,12 @@
 [S08]: https://github.com/www42/AZ-305/blob/6cc233d70eca9cfe6cd1b2df903cd37660d0d6a8/Solutions/AZ-305-Solution-08.pdf
 
 [P09]: https://github.com/www42/AZ-305/blob/7d0c8ae778799e0be807c8588b44dc18783a9494/pdf/AZ-305_09.pdf
+[S09]: https://github.com/www42/AZ-305/blob/39dd60cfa328477743c2cd0e6e0182ec83b50189/Solutions/AZ-305-Solution-09.pdf
+[W09]: https://github.com/www42/AZ-305/blob/39dd60cfa328477743c2cd0e6e0182ec83b50189/Whiteboards/Whiteboard09.jpg
+
+[P10]: https://
+
+[P11]: https://
 
 
 <br>
