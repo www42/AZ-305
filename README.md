@@ -17,15 +17,14 @@
 
 ## Seminar 19. - 22. Mai 2025
 
-[Presentation](pdf/)
+[Get the presentation](pdf/)
 
-<!--
+[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?9565ACC99223174708)
 
-[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?59FA89FA8219700159)
-
-[Grab your badge (Microsoft Learn)](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=MR7GNZ)
+[Grab your badge (Microsoft Learn)](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=36R85K)
 
 <br>
+<!--
 -->
 
 # AZ-305 Designing Microsoft Azure Infrastructure Solutions
@@ -90,9 +89,9 @@
 [S09]: https://github.com/www42/AZ-305/blob/39dd60cfa328477743c2cd0e6e0182ec83b50189/Solutions/AZ-305-Solution-09.pdf
 [W09]: https://github.com/www42/AZ-305/blob/39dd60cfa328477743c2cd0e6e0182ec83b50189/Whiteboards/Whiteboard09.jpg
 
-[P10]: https://
+[P10]: https://github.com/www42/AZ-305/blob/0f15f21888ad6a42fc7edcb4e6bb6ced352eb821/pdf/AZ-305_10.pdf
 
-[P11]: https://
+[P11]: https://github.com/www42/AZ-305/blob/0f15f21888ad6a42fc7edcb4e6bb6ced352eb821/pdf/AZ-305_11.pdf
 
 
 <br>
