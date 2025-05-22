@@ -49,9 +49,9 @@
 | 04 Relational storage solution               | [Whiteboard 04][W04] | [Solution 04][S04] | [Presentation 04][P04] |
 | 05 Data integration solutions                | No case study        | No case study      | [Presentation 05][P05] |
 | 06 App architecture solutions                | [Whiteboard 06][W06] | [Solution 06][S06] | [Presentation 06][P06] |
-| 07 Authentication and authorization solutions| [Whiteboard 07][W07] | [Solution 07][S07] | [Presentation 07][P07] |
-| 08 Logging and monitoring solutions          | [Whiteboard 08][W08] | [Solution 08][S08] | [Presentation 08][P08] |
-| 09 Network infrastructure  solutions         | [Whiteboard 09][W09] | [Solution 09][S09] | [Presentation 09][P09] |
+| 07 Authentication and authorization solutions|                      | [Solution 07][S07] | [Presentation 07][P07] |
+| 08 Logging and monitoring solutions          |                      | [Solution 08][S08] | [Presentation 08][P08] |
+| 09 Network infrastructure  solutions         |                      |                     | [Presentation 09][P09] |
 | 10 Business continuity solutions             | No case study        | No case study      |                        |
 | 11 Migration solutions                       | No case study        | No case study      |                        |
 
@@ -81,8 +81,10 @@
 [W06]: https://github.com/www42/AZ-305/blob/0b8a7c12798bc29e55d0072749b627a51faaca84/Whiteboards/Whiteboard06.jpg
 
 [P07]: https://github.com/www42/AZ-305/blob/7d0c8ae778799e0be807c8588b44dc18783a9494/pdf/AZ-305_07.pdf
+[S07]: https://github.com/www42/AZ-305/blob/6cc233d70eca9cfe6cd1b2df903cd37660d0d6a8/Solutions/AZ-305-Solution-07.pdf
 
 [P08]: https://github.com/www42/AZ-305/blob/7d0c8ae778799e0be807c8588b44dc18783a9494/pdf/AZ-305_08.pdf
+[S08]: https://github.com/www42/AZ-305/blob/6cc233d70eca9cfe6cd1b2df903cd37660d0d6a8/Solutions/AZ-305-Solution-08.pdf
 
 [P09]: https://github.com/www42/AZ-305/blob/7d0c8ae778799e0be807c8588b44dc18783a9494/pdf/AZ-305_09.pdf
 
