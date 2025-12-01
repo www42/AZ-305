@@ -15,16 +15,16 @@
 -->
 
 
-## Seminar 19. - 22. Mai 2025
+<!--
+## Seminar 01. - 04. December 2025
 
 [Get the presentation](pdf/)
 
-[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?9565ACC99223174708)
+[Give feedback]()
 
-[Grab your badge (Microsoft Learn)](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=36R85K)
+[Grab your badge (Microsoft Learn)]()
 
 <br>
-<!--
 -->
 
 # AZ-305 Designing Microsoft Azure Infrastructure Solutions
@@ -41,6 +41,20 @@
 
 | Module                                       | Classroom Whiteboard | Official Solution  | Presentation           |
 | :------------------------------------------- | :--------------------| :------------------| :----------------------|
+| 00 Intro                                     | No case study        | No case study      |  |
+| 01 Governance solutions                      |  |  |  |
+| 02 Compute solutions                         |  |  |  |
+| 03 Non-relational storage solution           |  |  |  |
+| 04 Relational storage solution               |  |  |  |
+| 05 Data integration solutions                | No case study        | No case study      |  |
+| 06 App architecture solutions                |  |  |  |
+| 07 Authentication and authorization solutions|  |  |  |
+| 08 Logging and monitoring solutions          |  |  |  |
+| 09 Network infrastructure  solutions         |  |  |  |
+| 10 Business continuity solutions             | No case study        | No case study      |  |
+| 11 Migration solutions                       | No case study        | No case study      |  |
+
+<!--
 | 00 Intro                                     | No case study        | No case study      | [Presentation 00][P00] |
 | 01 Governance solutions                      | [Whiteboard 01][W01] | [Solution 01][S01] | [Presentation 01][P01] |
 | 02 Compute solutions                         | [Whiteboard 02][W02] | [Solution 02][S02] | [Presentation 02][P02] |
@@ -53,6 +67,7 @@
 | 09 Network infrastructure  solutions         | [Whiteboard 09][W09] | [Solution 09][S09] | [Presentation 09][P09] |
 | 10 Business continuity solutions             | No case study        | No case study      | [Presentation 10][P10] |
 | 11 Migration solutions                       | No case study        | No case study      | [Presentation 11][P11] |
+-->
 
 [P00]: https://github.com/www42/AZ-305/blob/8edd18be34ffce2e66cf35c22b16b257c737584c/pdf/AZ-305_00.pdf
 
@@ -98,10 +113,14 @@
 
 ## Labs
 
+[Go Deploy](https://lms.godeploy.it)
+
+<!--
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
 1. Sign in with your Skillable account 
 2. Register with Training Key
+-->
 
 <br>
 
