@@ -27,7 +27,7 @@
 <br>
 -->
 
-# AZ-305 Designing Microsoft Azure Infrastructure Solutions
+# AZ-305 Design Microsoft Azure Infrastructure Solutions
 
 ## Learning Paths
 
