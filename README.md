@@ -33,6 +33,7 @@
 
 [AZ-305 on Microsoft Learn](https://aka.ms/AZ-305StudentMaterials)
 
+<br>
 
 ## Case Studies
 
