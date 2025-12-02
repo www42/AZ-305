@@ -46,8 +46,8 @@
 | 01 Governance solutions                      | [Whiteboard 01][W01] | [Solution 01][S01] | [Presentation 01][P01] |
 | 02 Compute solutions                         | [Whiteboard 02][W02] | [Solution 02][S02] | [Presentation 02][P02] |
 | 03 Non-relational storage solution           | [Whiteboard 03][W03] | [Solution 03][S03] | [Presentation 03][P03] |
-| 04 Relational storage solution               |  |  |  |
-| 05 Data integration solutions                | No case study        | No case study      |  |
+| 04 Relational storage solution               | [Whiteboard 04][W04] | [Solution 04][S04] | [Presentation 04][P04] |
+| 05 Data integration solutions                | No case study        | No case study      | [Presentation 05][P05] |
 | 06 App architecture solutions                |  |  |  |
 | 07 Authentication and authorization solutions|  |  |  |
 | 08 Logging and monitoring solutions          |  |  |  |
@@ -56,8 +56,6 @@
 | 11 Migration solutions                       | No case study        | No case study      |  |
 
 <!--
-| 04 Relational storage solution               | [Whiteboard 04][W04] | [Solution 04][S04] | [Presentation 04][P04] |
-| 05 Data integration solutions                | No case study        | No case study      | [Presentation 05][P05] |
 | 06 App architecture solutions                | [Whiteboard 06][W06] | [Solution 06][S06] | [Presentation 06][P06] |
 | 07 Authentication and authorization solutions|                      | [Solution 07][S07] | [Presentation 07][P07] |
 | 08 Logging and monitoring solutions          |                      | [Solution 08][S08] | [Presentation 08][P08] |
@@ -80,12 +78,11 @@
 [S03]: https://github.com/www42/AZ-305/blob/389211b3d67056fa80e9728a0cba1dd462980a80/Solutions/AZ-305-Solution-03.pdf
 [W03]: https://github.com/www42/AZ-305/blob/389211b3d67056fa80e9728a0cba1dd462980a80/Whiteboards/AZ-305%20Case%203.png
 
-[P04]: https://
-[S04]: https://
-[W04]: https://
+[P04]: https://github.com/www42/AZ-305/blob/d8117bb04ab858a57ce3b2be13a9b631712a881b/pdf/AZ-305_04.pdf
+[S04]: https://github.com/www42/AZ-305/blob/d8117bb04ab858a57ce3b2be13a9b631712a881b/Solutions/AZ-305-Solution-04.pdf
+[W04]: https://github.com/www42/AZ-305/blob/d8117bb04ab858a57ce3b2be13a9b631712a881b/Whiteboards/AZ-305%20Case%204.png
 
-
-[P05]: https://
+[P05]: https://github.com/www42/AZ-305/blob/d8117bb04ab858a57ce3b2be13a9b631712a881b/pdf/AZ-305_05.pdf
 
 [P06]: https://
 [S06]: https://
