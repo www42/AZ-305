@@ -84,9 +84,9 @@
 
 [P05]: https://github.com/www42/AZ-305/blob/d8117bb04ab858a57ce3b2be13a9b631712a881b/pdf/AZ-305_05.pdf
 
-[P06]: https://
-[S06]: https://
-[W06]: https://
+[P06]: https://github.com/www42/AZ-305/blob/5263879ed668feb8467affafddba0eecdb37b827/pdf/AZ-305_06.pdf
+[S06]: https://github.com/www42/AZ-305/blob/5263879ed668feb8467affafddba0eecdb37b827/Solutions/AZ-305-Solution-06.pdf
+[W06]: https://github.com/www42/AZ-305/blob/5263879ed668feb8467affafddba0eecdb37b827/Whiteboards/AZ-305%20Case%206.png
 
 [P07]: https://
 [S07]: https://
