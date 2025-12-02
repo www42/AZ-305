@@ -48,7 +48,7 @@
 | 03 Non-relational storage solution           | [Whiteboard 03][W03] | [Solution 03][S03] | [Presentation 03][P03] |
 | 04 Relational storage solution               | [Whiteboard 04][W04] | [Solution 04][S04] | [Presentation 04][P04] |
 | 05 Data integration solutions                | No case study        | No case study      | [Presentation 05][P05] |
-| 06 App architecture solutions                |  |  |  |
+| 06 App architecture solutions                | [Whiteboard 06][W06] | [Solution 06][S06] | [Presentation 06][P06] |
 | 07 Authentication and authorization solutions|  |  |  |
 | 08 Logging and monitoring solutions          |  |  |  |
 | 09 Network infrastructure  solutions         |  |  |  |
@@ -56,7 +56,6 @@
 | 11 Migration solutions                       | No case study        | No case study      |  |
 
 <!--
-| 06 App architecture solutions                | [Whiteboard 06][W06] | [Solution 06][S06] | [Presentation 06][P06] |
 | 07 Authentication and authorization solutions|                      | [Solution 07][S07] | [Presentation 07][P07] |
 | 08 Logging and monitoring solutions          |                      | [Solution 08][S08] | [Presentation 08][P08] |
 | 09 Network infrastructure  solutions         | [Whiteboard 09][W09] | [Solution 09][S09] | [Presentation 09][P09] |
