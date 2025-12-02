@@ -70,44 +70,44 @@
 | 11 Migration solutions                       | No case study        | No case study      | [Presentation 11][P11] |
 -->
 
-[P00]: https://github.com/www42/AZ-305/blob/8edd18be34ffce2e66cf35c22b16b257c737584c/pdf/AZ-305_00.pdf
+[P00]: https://
 
-[P01]: https://github.com/www42/AZ-305/blob/8edd18be34ffce2e66cf35c22b16b257c737584c/pdf/AZ-305_01.pdf
-[S01]: https://github.com/www42/AZ-305/blob/bead59a6f71da3999a26f6789f1c9627e0bde443/Solutions/AZ-305-Solution-01.pdf
-[W01]: https://github.com/www42/AZ-305/blob/43ea003f7c16f6eb5bf4311d7a9ad6fa560e998a/Whiteboards/Whiteboard01.JPEG
+[P01]: https://
+[S01]: https://
+[W01]: https://
 
-[P02]: https://github.com/www42/AZ-305/blob/8edd18be34ffce2e66cf35c22b16b257c737584c/pdf/AZ-305_02.pdf
-[S02]: https://github.com/www42/AZ-305/blob/bead59a6f71da3999a26f6789f1c9627e0bde443/Solutions/AZ-305-Solution-02.pdf
-[W02]: https://github.com/www42/AZ-305/blob/43ea003f7c16f6eb5bf4311d7a9ad6fa560e998a/Whiteboards/Whiteboard02.JPEG
+[P02]: https://
+[S02]: https://
+[W02]: https://
 
-[P03]: https://github.com/www42/AZ-305/blob/f2aa11ffc404208d3351f3326abaa0788c05e6fa/pdf/AZ-305_03.pdf
-[S03]: https://github.com/www42/AZ-305/blob/725c6bd208c991b63934cba25447b48565717e7f/Solutions/AZ-305-Solution-03.pdf
-[W03]: https://github.com/www42/AZ-305/blob/01c835ce6d3d15ab524c7c9a6297893caf62d904/Whiteboards/Whiteboard03.JPEG
+[P03]: https://
+[S03]: https://
+[W03]: https://
 
-[P04]: https://github.com/www42/AZ-305/blob/f2aa11ffc404208d3351f3326abaa0788c05e6fa/pdf/AZ-305_04.pdf
-[S04]: https://github.com/www42/AZ-305/blob/01c835ce6d3d15ab524c7c9a6297893caf62d904/Solutions/AZ-305-Solution-04.pdf
-[W04]: https://github.com/www42/AZ-305/blob/01c835ce6d3d15ab524c7c9a6297893caf62d904/Whiteboards/Whiteboard04.JPEG
+[P04]: https://
+[S04]: https://
+[W04]: https://
 
 
-[P05]: https://github.com/www42/AZ-305/blob/0aca3489ae958feacf4f927ef66a5105020f267a/pdf/AZ-305_05.pdf
+[P05]: https://
 
-[P06]: https://github.com/www42/AZ-305/blob/01c835ce6d3d15ab524c7c9a6297893caf62d904/pdf/AZ-305_06.pdf
-[S06]: https://github.com/www42/AZ-305/blob/01c835ce6d3d15ab524c7c9a6297893caf62d904/Solutions/AZ-305-Solution-06.pdf
-[W06]: https://github.com/www42/AZ-305/blob/0b8a7c12798bc29e55d0072749b627a51faaca84/Whiteboards/Whiteboard06.jpg
+[P06]: https://
+[S06]: https://
+[W06]: https://
 
-[P07]: https://github.com/www42/AZ-305/blob/7d0c8ae778799e0be807c8588b44dc18783a9494/pdf/AZ-305_07.pdf
-[S07]: https://github.com/www42/AZ-305/blob/6cc233d70eca9cfe6cd1b2df903cd37660d0d6a8/Solutions/AZ-305-Solution-07.pdf
+[P07]: https://
+[S07]: https://
 
-[P08]: https://github.com/www42/AZ-305/blob/7d0c8ae778799e0be807c8588b44dc18783a9494/pdf/AZ-305_08.pdf
-[S08]: https://github.com/www42/AZ-305/blob/6cc233d70eca9cfe6cd1b2df903cd37660d0d6a8/Solutions/AZ-305-Solution-08.pdf
+[P08]: https://
+[S08]: https://
 
-[P09]: https://github.com/www42/AZ-305/blob/7d0c8ae778799e0be807c8588b44dc18783a9494/pdf/AZ-305_09.pdf
-[S09]: https://github.com/www42/AZ-305/blob/39dd60cfa328477743c2cd0e6e0182ec83b50189/Solutions/AZ-305-Solution-09.pdf
-[W09]: https://github.com/www42/AZ-305/blob/39dd60cfa328477743c2cd0e6e0182ec83b50189/Whiteboards/Whiteboard09.jpg
+[P09]: https://
+[S09]: https://
+[W09]: https://
 
-[P10]: https://github.com/www42/AZ-305/blob/0f15f21888ad6a42fc7edcb4e6bb6ced352eb821/pdf/AZ-305_10.pdf
+[P10]: https://
 
-[P11]: https://github.com/www42/AZ-305/blob/0f15f21888ad6a42fc7edcb4e6bb6ced352eb821/pdf/AZ-305_11.pdf
+[P11]: https://
 
 
 <br>
