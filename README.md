@@ -42,9 +42,9 @@
 
 | Module                                       | Classroom Whiteboard | Official Solution  | Presentation           |
 | :------------------------------------------- | :--------------------| :------------------| :----------------------|
-| 00 Intro                                     | No case study        | No case study      |  |
-| 01 Governance solutions                      |  |  |  |
-| 02 Compute solutions                         |  |  |  |
+| 00 Intro                                     | No case study        | No case study      | [Presentation 00][P00] |
+| 01 Governance solutions                      | [Whiteboard 01][W01] | [Solution 01][S01] | [Presentation 01][P01] |
+| 02 Compute solutions                         | [Whiteboard 02][W02] | [Solution 02][S02] | [Presentation 02][P02] |
 | 03 Non-relational storage solution           |  |  |  |
 | 04 Relational storage solution               |  |  |  |
 | 05 Data integration solutions                | No case study        | No case study      |  |
@@ -56,9 +56,6 @@
 | 11 Migration solutions                       | No case study        | No case study      |  |
 
 <!--
-| 00 Intro                                     | No case study        | No case study      | [Presentation 00][P00] |
-| 01 Governance solutions                      | [Whiteboard 01][W01] | [Solution 01][S01] | [Presentation 01][P01] |
-| 02 Compute solutions                         | [Whiteboard 02][W02] | [Solution 02][S02] | [Presentation 02][P02] |
 | 03 Non-relational storage solution           | [Whiteboard 03][W03] | [Solution 03][S03] | [Presentation 03][P03] |
 | 04 Relational storage solution               | [Whiteboard 04][W04] | [Solution 04][S04] | [Presentation 04][P04] |
 | 05 Data integration solutions                | No case study        | No case study      | [Presentation 05][P05] |
@@ -70,15 +67,15 @@
 | 11 Migration solutions                       | No case study        | No case study      | [Presentation 11][P11] |
 -->
 
-[P00]: https://
+[P00]: https://github.com/www42/AZ-305/blob/d4bfd122fabf5ee36e79167431ccf8efd62d0647/pdf/AZ-305_00.pdf
 
-[P01]: https://
-[S01]: https://
-[W01]: https://
+[P01]: https://github.com/www42/AZ-305/blob/d4bfd122fabf5ee36e79167431ccf8efd62d0647/pdf/AZ-305_01.pdf
+[S01]: https://github.com/www42/AZ-305/blob/d4bfd122fabf5ee36e79167431ccf8efd62d0647/Solutions/AZ-305-Solution-01.pdf
+[W01]: https://github.com/www42/AZ-305/blob/d4bfd122fabf5ee36e79167431ccf8efd62d0647/Whiteboards/AZ-305%20Case%201.png
 
-[P02]: https://
-[S02]: https://
-[W02]: https://
+[P02]: https://github.com/www42/AZ-305/blob/d4bfd122fabf5ee36e79167431ccf8efd62d0647/pdf/AZ-305_02.pdf
+[S02]: https://github.com/www42/AZ-305/blob/d4bfd122fabf5ee36e79167431ccf8efd62d0647/Solutions/AZ-305-Solution-02.pdf
+[W02]: https://github.com/www42/AZ-305/blob/d4bfd122fabf5ee36e79167431ccf8efd62d0647/Whiteboards/AZ-305%20Case%202.png
 
 [P03]: https://
 [S03]: https://
