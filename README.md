@@ -49,7 +49,7 @@
 | 04 Relational storage solution               | [Whiteboard 04][W04] | [Solution 04][S04] | [Presentation 04][P04] |
 | 05 Data integration solutions                | No case study        | No case study      | [Presentation 05][P05] |
 | 06 App architecture solutions                | [Whiteboard 06][W06] | [Solution 06][S06] | [Presentation 06][P06] |
-| 07 Authentication and authorization solutions|                      | [Solution 07][S07] | [Presentation 07][P07] |
+| 07 Authentication and authorization solutions| [Whiteboard 07][W07] | [Solution 07][S07] | [Presentation 07][P07] |
 | 08 Logging and monitoring solutions          |                      | [Solution 08][S08] | [Presentation 08][P08] |
 | 09 Network infrastructure  solutions         | [Whiteboard 09][W09] | [Solution 09][S09] | [Presentation 09][P09] |
 | 10 Business continuity solutions             | No case study        | No case study      | [Presentation 10][P10] |
