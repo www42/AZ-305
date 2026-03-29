@@ -55,11 +55,11 @@
 | 10 Business continuity solutions             | No case study        | No case study      |  |
 | 11 Migration solutions                       | No case study        | No case study      |  |
 
-[P00]: 
+[P00]: https://
 
-[P01]: 
-[S01]: 
-[W01]: 
+[P01]: https://
+[S01]: https://
+[W01]: https://
 
 [P02]: https://
 [S02]: https://
