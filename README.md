@@ -16,7 +16,7 @@
 
 
 <!--
-## Seminar 01. - 04. December 2025
+## Seminar 30.03. - 02.04. 2026
 
 [Get the presentation](pdf/)
 
@@ -42,73 +42,75 @@
 
 | Module                                       | Classroom Whiteboard | Official Solution  | Presentation           |
 | :------------------------------------------- | :--------------------| :------------------| :----------------------|
-| 00 Intro                                     | No case study        | No case study      | [Presentation 00][P00] |
-| 01 Governance solutions                      | [Whiteboard 01][W01] | [Solution 01][S01] | [Presentation 01][P01] |
-| 02 Compute solutions                         | [Whiteboard 02][W02] | [Solution 02][S02] | [Presentation 02][P02] |
-| 03 Non-relational storage solution           | [Whiteboard 03][W03] | [Solution 03][S03] | [Presentation 03][P03] |
-| 04 Relational storage solution               | [Whiteboard 04][W04] | [Solution 04][S04] | [Presentation 04][P04] |
-| 05 Data integration solutions                | No case study        | No case study      | [Presentation 05][P05] |
-| 06 App architecture solutions                | [Whiteboard 06][W06] | [Solution 06][S06] | [Presentation 06][P06] |
-| 07 Authentication and authorization solutions| [Whiteboard 07][W07] | [Solution 07][S07] | [Presentation 07][P07] |
-| 08 Logging and monitoring solutions          |                      | [Solution 08][S08] | [Presentation 08][P08] |
-| 09 Network infrastructure  solutions         | [Whiteboard 09][W09] | [Solution 09][S09] | [Presentation 09][P09] |
-| 10 Business continuity solutions             | No case study        | No case study      | [Presentation 10][P10] |
-| 11 Migration solutions                       | No case study        | No case study      | [Presentation 11][P11] |
+| 00 Intro                                     | No case study        | No case study      |  |
+| 01 Governance solutions                      |  |  |  |
+| 02 Compute solutions                         |  |  |  |
+| 03 Non-relational storage solution           |  |  |  |
+| 04 Relational storage solution               |  |  |  |
+| 05 Data integration solutions                | No case study        | No case study      |  |
+| 06 App architecture solutions                |  |  |  |
+| 07 Authentication and authorization solutions|  |  |  |
+| 08 Logging and monitoring solutions          |  |  |  |
+| 09 Network infrastructure  solutions         |  |  |  |
+| 10 Business continuity solutions             | No case study        | No case study      |  |
+| 11 Migration solutions                       | No case study        | No case study      |  |
 
-[P00]: https://github.com/www42/AZ-305/blob/d4bfd122fabf5ee36e79167431ccf8efd62d0647/pdf/AZ-305_00.pdf
+[P00]: 
 
-[P01]: https://github.com/www42/AZ-305/blob/d4bfd122fabf5ee36e79167431ccf8efd62d0647/pdf/AZ-305_01.pdf
-[S01]: https://github.com/www42/AZ-305/blob/d4bfd122fabf5ee36e79167431ccf8efd62d0647/Solutions/AZ-305-Solution-01.pdf
-[W01]: https://github.com/www42/AZ-305/blob/d4bfd122fabf5ee36e79167431ccf8efd62d0647/Whiteboards/AZ-305%20Case%201.png
+[P01]: 
+[S01]: 
+[W01]: 
 
-[P02]: https://github.com/www42/AZ-305/blob/d4bfd122fabf5ee36e79167431ccf8efd62d0647/pdf/AZ-305_02.pdf
-[S02]: https://github.com/www42/AZ-305/blob/d4bfd122fabf5ee36e79167431ccf8efd62d0647/Solutions/AZ-305-Solution-02.pdf
-[W02]: https://github.com/www42/AZ-305/blob/d4bfd122fabf5ee36e79167431ccf8efd62d0647/Whiteboards/AZ-305%20Case%202.png
+[P02]: https://
+[S02]: https://
+[W02]: https://
 
-[P03]: https://github.com/www42/AZ-305/blob/389211b3d67056fa80e9728a0cba1dd462980a80/pdf/AZ-305_03.pdf
-[S03]: https://github.com/www42/AZ-305/blob/389211b3d67056fa80e9728a0cba1dd462980a80/Solutions/AZ-305-Solution-03.pdf
-[W03]: https://github.com/www42/AZ-305/blob/389211b3d67056fa80e9728a0cba1dd462980a80/Whiteboards/AZ-305%20Case%203.png
+[P03]: https://
+[S03]: https://
+[W03]: https://
 
-[P04]: https://github.com/www42/AZ-305/blob/d8117bb04ab858a57ce3b2be13a9b631712a881b/pdf/AZ-305_04.pdf
-[S04]: https://github.com/www42/AZ-305/blob/d8117bb04ab858a57ce3b2be13a9b631712a881b/Solutions/AZ-305-Solution-04.pdf
-[W04]: https://github.com/www42/AZ-305/blob/d8117bb04ab858a57ce3b2be13a9b631712a881b/Whiteboards/AZ-305%20Case%204.png
+[P04]: https://
+[S04]: https://
+[W04]: https://
 
-[P05]: https://github.com/www42/AZ-305/blob/d8117bb04ab858a57ce3b2be13a9b631712a881b/pdf/AZ-305_05.pdf
+[P05]: https://
 
-[P06]: https://github.com/www42/AZ-305/blob/5263879ed668feb8467affafddba0eecdb37b827/pdf/AZ-305_06.pdf
-[S06]: https://github.com/www42/AZ-305/blob/5263879ed668feb8467affafddba0eecdb37b827/Solutions/AZ-305-Solution-06.pdf
-[W06]: https://github.com/www42/AZ-305/blob/5263879ed668feb8467affafddba0eecdb37b827/Whiteboards/AZ-305%20Case%206.png
+[P06]: https://
+[S06]: https://
+[W06]: https://
 
-[P07]: https://github.com/www42/AZ-305/blob/826b8076c13b36f1a52e0a1b35e8568fda87763f/pdf/AZ-305_07.pdf
-[S07]: https://github.com/www42/AZ-305/blob/826b8076c13b36f1a52e0a1b35e8568fda87763f/Solutions/AZ-305-Solution-07.pdf
-[W07]: https://github.com/www42/AZ-305/blob/826b8076c13b36f1a52e0a1b35e8568fda87763f/Whiteboards/AZ-305%20Case%207.png
+[P07]: https://
+[S07]: https://
+[W07]: https://
 
-[P08]: https://github.com/www42/AZ-305/blob/826b8076c13b36f1a52e0a1b35e8568fda87763f/pdf/AZ-305_08.pdf
-[S08]: https://github.com/www42/AZ-305/blob/826b8076c13b36f1a52e0a1b35e8568fda87763f/Solutions/AZ-305-Solution-08.pdf
+[P08]: https://
+[S08]: https://
 
-[P09]: https://github.com/www42/AZ-305/blob/826b8076c13b36f1a52e0a1b35e8568fda87763f/pdf/AZ-305_09.pdf
-[S09]: https://github.com/www42/AZ-305/blob/826b8076c13b36f1a52e0a1b35e8568fda87763f/Solutions/AZ-305-Solution-09.pdf
-[W09]: https://github.com/www42/AZ-305/blob/826b8076c13b36f1a52e0a1b35e8568fda87763f/Whiteboards/AZ-305%20Case%209.png
+[P09]: https://
+[S09]: https://
+[W09]: https://
 
-[P10]: https://github.com/www42/AZ-305/blob/826b8076c13b36f1a52e0a1b35e8568fda87763f/pdf/AZ-305_10.pdf
+[P10]: https://
 
-[P11]: https://github.com/www42/AZ-305/blob/826b8076c13b36f1a52e0a1b35e8568fda87763f/pdf/AZ-305_11.pdf
+[P11]: https://
 
 
 <br>
 
+<!--
 ## Labs
 
 [Go Deploy](https://lms.godeploy.it)
+-->
 
 <!--
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
 1. Sign in with your Skillable account 
 2. Register with Training Key
--->
 
 <br>
+-->
 
 ## Certification
 
