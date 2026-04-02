@@ -15,14 +15,14 @@
 -->
 
 
-<!--
 ## Seminar 30.03. - 02.04. 2026
 
+[Grab your badge (Microsoft Learn)](https://learn.microsoft.com/en-us/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=de-de&source=learn&redeem=8XRN7J)
+
+<!--
 [Get the presentation](pdf/)
 
 [Give feedback]()
-
-[Grab your badge (Microsoft Learn)]()
 
 <br>
 -->
