@@ -5,16 +5,6 @@
 [LP5]: https://learn.microsoft.com/en-us/training/paths/cloud-adoption-framework/
 [LP6]: https://learn.microsoft.com/en-us/training/paths/azure-well-architected-framework/
 
-<!--
-- Learning Path [Design identity, governance, and monitor solutions][LP1]
-- Learning Path [Design infrastructure solutions][LP2]
-- Learning Path [Design data storage solutions][LP3]
-- Learning Path [Design business continuity solutions][LP4]
-- Learning Path [Accelerate cloud adoption with the Microsoft Cloud Adoption Framework for Azure][LP5]
-- Learning Path [Build great solutions with the Microsoft Azure Well-Architected Framework][LP6]
--->
-
-
 
 
 # AZ-305 Design Microsoft Azure Infrastructure Solutions
@@ -33,9 +23,15 @@
 
 ## Learning Paths
 
-[AZ-305 on Microsoft Learn](https://aka.ms/AZ-305StudentMaterials)
+- Learning Path [Design identity, governance, and monitor solutions][LP1]
+- Learning Path [Design infrastructure solutions][LP2]
+- Learning Path [Design data storage solutions][LP3]
+- Learning Path [Design business continuity solutions][LP4]
+- Learning Path [Accelerate cloud adoption with the Microsoft Cloud Adoption Framework for Azure][LP5]
+- Learning Path [Build great solutions with the Microsoft Azure Well-Architected Framework][LP6]
 
 <br>
+
 
 ## Case Studies
 
