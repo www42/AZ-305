@@ -19,17 +19,17 @@
 
 # AZ-305 Design Microsoft Azure Infrastructure Solutions
 
-## Seminar 30.03. - 02.04. 2026
-
-[Grab your badge (Microsoft Learn)](https://learn.microsoft.com/en-us/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=de-de&source=learn&redeem=8XRN7J)
-
 <!--
+## Seminar 12.10. - 15.10.2026
+
+[Grab your badge (Microsoft Learn)](https://)
+
 [Get the presentation](pdf/)
 
 [Give feedback]()
 
--->
 <br>
+-->
 
 ## Learning Paths
 
@@ -99,11 +99,9 @@
 
 <br>
 
-<!--
 ## Labs
 
 [Go Deploy](https://lms.godeploy.it)
--->
 
 <!--
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
