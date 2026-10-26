@@ -10,7 +10,7 @@
 # AZ-305 Design Microsoft Azure Infrastructure Solutions
 
 <!--
-## Seminar 12.10. - 15.10.2026
+## Seminar 26.10. - 29.10.2026
 
 [Grab your badge (Microsoft Learn)](https://)
 
